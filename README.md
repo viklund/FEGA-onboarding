@@ -1,3 +1,5 @@
+<img src="./images/FEGA-logo-generic.jpg" alt="Federated EGA logo, colored logo of storage disk with human stick figure emerging and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+
 # Establishing a Federated EGA Node
 
 **This readme is a placeholder for draft content before we set up the real repository on EGA-archive and organise it to render a useful website, like how the [Galaxy Training Network](https://github.com/galaxyproject/training-material) does it.**
