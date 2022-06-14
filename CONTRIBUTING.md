@@ -6,6 +6,7 @@
 - [Example request for changes](#example-request-for-changes-to-fega-onboarding-materials)
 - [Proposing changes](#proposing-changes-to-fega-onboarding-materials)
 - [Reporting bugs](#reporting-bugs)
+- [Attribution](#attribution)
 
 ## Introduction
 
@@ -62,3 +63,6 @@ Report any bugs by creating an issue using this [GH template](https://github.com
 - Typos or grammar mistakes
 - Missing images
 
+## Attribution
+
+We would like to keep track of who has contributed to these onboarding materials, as we consider this a highly valuable contribution to the FEGA community. If you contribute, please add your name to the contributors.txt file as part of a PR.
