@@ -6,38 +6,44 @@ Welcome to this collection of onboarding materials for establishing a Federated 
 
 ## What am I doing here?
 
-If you have made it to this page, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you to look at. 
+If you have made it to this page, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
 
-These onboarding materials are meant to be a general guide for establishing a node within the Federated EGA Network. They are based on knowledge and experiences of current nodes and their individual use cases. Your node's development might be slightly different depending on your own use cases and mandates from stakeholders. Because of this, please view these materials as suggestions and best practices, not hard requirements.
+These materials are a general guide for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their individual use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## Where do I start?
 
-- If you are involved in **governance or legal aspects** of establishing a Federated EGA node, you can start [here](#governance-and-legal-aspects-of-establishing-a-node). You might go here if you are a data protection officer, data steward, policy maker, etc.
-- If you are involved in **technical or operational aspects** of establishing a Federated EGA node, you can start [here](#technical-and-operational-aspects-of-establishing-a-node). You might go here if you are a software developer, bioinformatician, data steward, support officer, etc.
-- If you are involved in **outreach or training aspects** of establishing a Federated EGA node, you can start [here](#outreach-and-training-aspects-of-establishing-a-node). You might go here if you are a data steward, support officer, outreach/communications officer, etc.
+- Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](#governance-and-legal-aspects-of-establishing-a-node)! 
+  - For data protection officers, data stewards, policy makers, strategic decision makers, etc.
+- Involved in **technical or operational aspects** of establishing a Federated EGA node? Start [here](#technical-and-operational-aspects-of-establishing-a-node)! 
+  - For software developers and engineers, bioinformaticians, data stewards, support officers, etc.
+- Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
+  - For data stewards, support officers, outreach/communications officers, etc.
 
-### Governance and legal aspects of establishing a node
-
-*New pages for more details of this journey*
-
-### Technical and operational aspects of establishing a node
-
-*New pages for more details of this journey*
-
-### Outreach and training aspects of establishing a node
-
-*New pages for more details of this journey*
+**Links are broken - should link to new pages with organised materials.**
 
 ## What does the journey look like?
 
-Based on past experiences, governance/legal development of a federated EGA nodes usually happens in parallel with technical/operational development, followed by development of user-facing components once a minimal node is operating. You may find your path differs slightly for a variety of reasons - that's ok! 
+Based on experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
 
-The aim of these onboarding materials is to guide you through useful information from the experiences of other nodes, and for you to take what you find useful to apply to your own node development. 
+The aim of these onboarding materials is to guide you through useful information from the experiences of other nodes, and for you to take what you find useful to apply to your own node development.
 
-## Where can I go for help?
+There is no time limit on establishing your Federated EGA node. Onboarding will take more or less time depending on things like existing infrastructure and governance models, availability of funding and resources, and user needs.
 
-*TBD*
+## Usage
 
-## How can I improve these pages?
+The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (**TBD**).
 
-Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenace of these materials. And thank you in advance for your contributions!
+If you want to build the website locally, please have a look at this tutorial (**TBD**).
+
+## License
+
+The content of the FEGA onboarding materials and website are licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## Contributing
+
+Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenace of these materials. Thank you in advance for your contributions!
+
+## Acknowledgements
+
+We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners (**To be listed somewhere**).
+
