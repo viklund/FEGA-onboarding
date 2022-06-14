@@ -28,7 +28,7 @@ This document describes how you can contribute to the development of onboarding 
 
 To request changes to FEGA onboarding materials, follow the steps below:
 
-1. **Gather information** for the requested change. There are two main types of requests: (1) for updates to existing materials and (2) for addition of new materials. To request either type of change, the following pieces of information are required (use this GH issue template):
+1. **Gather information** for the requested change. There are two main types of requests: (1) for updates to existing materials and (2) for addition of new materials. To request either type of change, the following pieces of information are required:
 
     1. The website URL or GitHub repository path of the page where the requested update/new material is to be located
     1. The requested update/new materials, including as much detail as possible
