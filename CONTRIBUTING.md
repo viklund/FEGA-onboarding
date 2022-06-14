@@ -65,4 +65,4 @@ Report any bugs by creating an issue using this [GH template](https://github.com
 
 ## Attribution
 
-We would like to keep track of who has contributed to these onboarding materials, as we consider this a highly valuable contribution to the FEGA community. If you contribute, please add your name to the contributors.txt file as part of a PR.
+We would like to keep track of who has contributed to these onboarding materials, as we consider this a highly valuable contribution to the FEGA community. If you contribute, please add your name to the CONTRIBUTORS.yaml file as part of a PR.
