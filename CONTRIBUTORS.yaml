@@ -1,0 +1,25 @@
+# List of contributors
+#
+# tags: name, email, twitter, gitter, orcid, elixir_node
+
+# example entry
+
+# contributer-1:
+#     name: Fake Name
+#     email: fake.name@ebi.ac.uk
+#     twitter: fakename
+#     gitter: fakename
+#     orcid: 0000-0000-0000-0000
+#     elixir_node: embl
+
+---
+# Please add yourself below in alphabetical order
+
+mfreeberg:
+    name: Mallory Freeberg
+    email: mfreeberg@ebi.ac.uk
+    twitter: MalloryFreeberg
+    gitter: malloryfreeberg
+    orcid: 0000-0003-2949-3921
+    elixir_node: embl
+
