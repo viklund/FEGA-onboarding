@@ -40,4 +40,4 @@ The aim of these onboarding materials is to guide you through useful information
 
 ## How can I improve these pages?
 
-Please see our [contributing guide](../CONTRIBUTING.md) for information on how to contribute to the generation and maintenace of these materials. And thank you in advance for your contributions!
+Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenace of these materials. And thank you in advance for your contributions!
