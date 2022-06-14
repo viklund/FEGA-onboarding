@@ -8,9 +8,9 @@ Welcome to this collection of onboarding materials for establishing a Federated 
 
 ## What am I doing here?
 
-If you have made it to this page, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
+If you areon this page, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
 
-These materials are a general guide for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their individual use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
+These materials are a general guide for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## Where do I start?
 
@@ -25,9 +25,9 @@ These materials are a general guide for establishing a node in the Federated EGA
 
 ## What does the journey look like?
 
-Based on experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
+Based on our experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
 
-The aim of these onboarding materials is to guide you through useful information from the experiences of other nodes, and for you to take what you find useful to apply to your own node development.
+These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
 There is no time limit on establishing your Federated EGA node. Onboarding will take more or less time depending on things like existing infrastructure and governance models, availability of funding and resources, and user needs.
 
