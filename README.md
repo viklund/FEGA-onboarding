@@ -17,7 +17,9 @@ These materials are a general guide for establishing a node in the Federated EGA
 - Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](#governance-and-legal-aspects-of-establishing-a-node)! 
   - For data protection officers, data stewards, policy makers, strategic decision makers, etc.
 - Involved in **technical or operational aspects** of establishing a Federated EGA node? Start [here](#technical-and-operational-aspects-of-establishing-a-node)! 
-  - For software developers and engineers, bioinformaticians, data stewards, support officers, etc.
+  - For software developers and engineers, bioinformaticians, support officers, etc.
+- Involved in **data and metadata standards** for establishing a Federated EGA node? Start [here](#data-and-metadata-standards-for-establishing-a-node)! 
+  - For bioinformaticians, data stewards, support officers, etc.
 - Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
   - For data stewards, support officers, outreach/communications officers, etc.
 
