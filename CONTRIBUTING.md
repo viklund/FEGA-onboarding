@@ -35,7 +35,7 @@ To request changes to FEGA onboarding materials, follow the steps below:
     1. The requested update/new materials, including as much detail as possible
     1. Why the update/new material is being requested, including what the added value is
         
-1. **Submit a request** for the change. Anyone can request changes to the onboarding materials by creating a GH issue in this repository using this [GH template](https://github.com/repo/url/issues/new?template=request_change.md). Follow the template to include the information indicated in Step 1. Please add the "requsted-change" label to the issue.
+1. **Submit a request** for the change. Anyone can request changes to the onboarding materials by creating a GH issue in this repository using this [GH template](https://github.com/repo/url/issues/new?template=request_change.md). Follow the template to include the information indicated in Step 1. Please add the "requested-change" label to the issue.
 
 1. **Track progress** of the request. The request will be reviewed by members of the FEGA community. Clarification may be requested. A proposed change will be made (via a GH pull request) to address the request and will be reviewed by the FEGA community. Once the change is accepted, the pull request will be merged and the related issue will be closed.
 
