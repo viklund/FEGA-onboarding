@@ -1,5 +1,7 @@
 # Establishing a Federated EGA Node
 
+**This readme is a placeholder for draft content before we set up the real repository on EGA-archive and organise it to render a useful website, like how the [Galaxy Training Network](https://github.com/galaxyproject/training-material) does it.**
+
 Welcome to this collection of onboarding materials for establishing a Federated EGA Node!
 
 ## What am I doing here?
