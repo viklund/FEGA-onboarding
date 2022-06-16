@@ -49,9 +49,11 @@ To propose changes to FEGA onboarding materials, follow the steps below:
 
 1. **Create a fork** of this repo.
 
-1. **Create a branch** in your local fork for the change(s) you would like to propose. We suggest one type of change per branch.
+1. **Create a new branch** in your local fork for the change(s) you would like to propose. We suggest one type of change per branch.
 
-1. **Create a pull request** from your local branch to the main branch of this repo. Request reviewers. **TBD template for PR description**.
+1. **Make the changes** you would like to propose. See [this guide](TBD) for guidance and templates for creating new content.
+
+1. **Open a pull request** from your local branch to the main branch of this repo. Request reviewers. **TBD template for PR description**.
 
 1. **Track progress** of PR. Once the PR is accepted (**criteria TBD**), a repo maintainer will merge it.
 
