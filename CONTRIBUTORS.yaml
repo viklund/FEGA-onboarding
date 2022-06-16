@@ -10,7 +10,9 @@
 #     twitter: fakename
 #     gitter: fakename
 #     orcid: 0000-0000-0000-0000
-#     elixir_node: embl
+#     elixir_node: xx
+
+# elixir_node cv: [be, ch, cz, de, dk, ee, embl, es, fi, fr, gr, hu, ie, is, it, lu, nl, no, pt, se, si, uk]
 
 ---
 # Please add yourself below in alphabetical order
