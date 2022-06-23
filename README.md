@@ -1,4 +1,4 @@
-<img src="./images/FEGA-logo-generic.jpg" alt="Federated EGA logo, colored logo of storage disk with human stick figure emerging and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+<img src="./images/FEGA-logo-generic.jpg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
 # Establishing a Federated EGA Node
 
@@ -8,9 +8,9 @@ Welcome to this collection of onboarding materials for establishing a Federated 
 
 ## What am I doing here?
 
-If you areon this page, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
+If you are reading this, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
 
-These materials are a general guide for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
+These materials provide guidance for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## Where do I start?
 
@@ -23,7 +23,7 @@ These materials are a general guide for establishing a node in the Federated EGA
 - Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
   - For data stewards, support officers, outreach/communications officers, etc.
 
-**Links are broken - should link to new pages with organised materials.**
+**These links don't point anywhere - they should link to new pages with organised materials.**
 
 ## What does the journey look like?
 
@@ -31,7 +31,7 @@ Based on our experience, governance and legal development of a node usually happ
 
 These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
-There is no time limit on establishing your Federated EGA node. Onboarding will take more or less time depending on things like existing infrastructure and governance models, availability of funding and resources, and user needs.
+There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
 ## Usage
 
