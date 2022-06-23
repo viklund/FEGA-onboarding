@@ -4,36 +4,31 @@ about: Create a report to help us fix an issue you experienced.
 labels: bug
 ---
 
-**Give the bug a title**
+**Description**
 
-<!-- Please give the bug a title that includes a short description. -->
+<!-- Please give a short description of the bug you encountered. -->
 
-*e.g.* Typo in CONTRIBUTING.md page
+
 
 **To reproduce**
 
-<!-- Please explain as much as you can about what you were doing when the bug was observed (to help us reproduce the error for testing). --> 
+<!-- Please explain the steps you performed which resulted in the observed the bug, to help us reproduce the error for testing. --> 
 
-*e.g.*
 
-Steps to reproduce the behavior:
-1. View CONTRIBUTING.md file
-1. Observe typo in the first Introduction paragraph 
 
 **Observed behavior**
 
-<!-- Please explain what happens. -->
+<!-- Please explain what happened. Include any error messages or warnings you observed. -->
 
-*e.g.* The last sentence says "All conrtibutions are welcome"
 
 
 **Expected behavior**
 
 <!-- Please explain what you expect to happen. -->
  
-*e.g.* The last sentence should say "All contributions are welcome"
 
 
-**Screenshots or Messages**
+**Screenshots**
 
-<!-- If applicable, add screenshots to help explain your problem or the text of any error messages. -->
+<!-- If applicable, provide screenshots to help explain the bug you encountered. -->
+
