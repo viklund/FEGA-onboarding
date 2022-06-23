@@ -17,8 +17,8 @@
 
 - Maturity Model
   - [Website](https://inab.github.io/fega-mm/)
-  - [GitHub](https://github.com/inab/fega-mm)) 
-  - [Presentation](https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86) (sildes, 8 June 2022)
+  - [GitHub](https://github.com/inab/fega-mm) 
+  - [First node self-assessment results](https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86) (sildes, 8 June 2022)
 - ["Resource considerations for establishing and operating a federated human data node"](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022)
 - ["FEGA node costing discussion"](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (audio recording, 1 March 2022)
 - Vision Statement
