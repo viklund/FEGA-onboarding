@@ -11,13 +11,16 @@
 - [EGA Federation: Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf)
   - The EGA Federation Operations Committee terms of reference describes the purpose and objectives of the operations committee, which is to review operational performance and coordinate technical implementation roadmaps of EGA Federated and Community nodes. The committee receives advice from the EGA Federated Strategic Committee, and provides operational reporting to the EGA Federated Strategic Committee
 - [Pathway to becoming a FEGA node](TBD)
-- [ELIXIR-CONVERGE D7.1 Report of use-cases and architecture for the EGA federation](https://zenodo.org/record/4893063)
+- [ELIXIR-CONVERGE D7.1 Report of use-cases and architecture for the EGA federation](https://zenodo.org/record/4893063) (report, 2 June 2021)
 
 ### Other media
 
 - ELIXIR FHD Community Call ["FEGA node costing discussion"](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (video, 1 March 2022)
 - ["Resource considerations for establishing and operating a federated human data node"](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022)
-- Maturity Model ([website](https://inab.github.io/fega-mm/) and [GitHub](https://github.com/inab/fega-mm)) 
+- Maturity Model
+  - [Website](https://inab.github.io/fega-mm/)
+  - [GitHub](https://github.com/inab/fega-mm)) 
+  - [Presentation from ELIXIR AHM 2022](https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86) (sildes, 8 June 2022)
 - Vision Statement:
   - The Federated EGA is the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.
   - Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
@@ -28,18 +31,22 @@
 - FEGA Collaboration Agreement
 - DPIA - examples? info? templates?
 - DPA - examples? info? templates?
+- External links
+  - [GDPR](https://gdpr-info.eu/)
 
 ## (Meta)data management
 
 - [GA4GH standards](https://ega-archive.org/ga4gh)
 - [FEGA data flow diagrams (DRAFT)](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126)
 - [Central EGA Security Strategy](https://ega-archive.org/files/European_Genome_phenome_Archive_Security_Overview.pdf)
-- [ELIXIR-CONVERGE D7.3 COVID-19 metadata mapping model across COVID-19 studies in federated EGA](https://zenodo.org/record/4893222)
+- [ELIXIR-CONVERGE D7.3 COVID-19 metadata mapping model across COVID-19 studies in federated EGA](https://zenodo.org/record/4893222) (report, 2 June 2021)
 
 ## Technical infrastructure
 
-- Local EGA software repository ([GitHub](https://github.com/EGA-archive/LocalEGA) and [readthedocs](https://localega.readthedocs.io/))
-- [ELIXIR-CONVERGE D7.2 Implementation and documentation to create an operational EGA node](https://zenodo.org/record/4893191)
+- Local EGA software
+  - [GitHub repository](https://github.com/EGA-archive/LocalEGA)
+  - [Readthedocs](https://localega.readthedocs.io/))
+- [ELIXIR-CONVERGE D7.2 Implementation and documentation to create an operational EGA node](https://zenodo.org/record/4893191) (report, 2 June 2021)
 - Compliance testing info
 - Stress testing info
 - [Overview of local EGA services and architecture](https://www.youtube.com/watch?v=k9R8W3V3ugU)
@@ -54,11 +61,10 @@
 - [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
 - [Example service-specific CEGA SOPs]()
 
-
 ## Communications etc.
 
-- Links to existing FEGA node websites?
-  - [Finland]()
+- FEGA node websites
+  - [Finland](https://research.csc.fi/-/fega)
   - [Germany](https://www.ghga.de/)
   - [Norway](https://ega.elixir.no/)
   - [Spain]()
@@ -72,7 +78,14 @@
   - Share FEGA Strategic Committee mailing list?
   - Share FEGA Operations Committee mailing list?
   - Create a general info mailing list for FEGA?
+- Twitter
+  - [Official EGA account](https://twitter.com/EGAarchive)
+  - Tags: #FederatedEGA, #Federated @EGAarchive 
 
-## Miscellancy
+## News and updates
+- [Federated EGA Updates in 2022 (ELIXIR AHM 2022)](https://doi.org/10.7490/f1000research.1118988.1) (slides, 8 June 2022)
+- [Federated EGA: where are we now? (ELIXIR AHM 2021)](DOI TBD) (slides, 11 June 2021)
+
+## Miscellancy (find a new home)
 
 - [FEGA page on EGA website](https://ega-archive.org/federated) --> to be re-worked in the future
