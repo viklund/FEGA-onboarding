@@ -27,6 +27,9 @@
   > Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
   >
   > Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
+- Links to related initiatives/projects like
+  - [1+MG](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making.)
+  - [B1MG](https://b1mg-project.eu/)
 
 ## Legal
 
