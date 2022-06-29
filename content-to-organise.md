@@ -38,6 +38,7 @@
 - DPA - examples? info? templates?
 - External links
   - [GDPR](https://gdpr-info.eu/)
+  - [Data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD) - training materials from ELIXIR
 
 ## (Meta)data management
 
