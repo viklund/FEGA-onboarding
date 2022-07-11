@@ -12,6 +12,23 @@ If you are reading this, you are probably looking for information on how to join
 
 These materials provide guidance for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
+## Federated EGA at a glance
+
+| Central EGA Node | Federated EGA Node |
+| ---------------- | ------------------ |
+| Hosts data | Hosts and/or owns data |
+| Shares metadata & allows global discovery | Shares metadata to allow global discovery |
+| Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
+| Has Helpdesk for CEGA data | Has Helpdesk responsible for own data/jurisdiction |
+| Chair the Federated EGA Committees | Participates actively in the Federated EGA Committees |
+| No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
+
+
+
+
+
+
+
 ## Where do I start?
 
 - Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](#governance-and-legal-aspects-of-establishing-a-node)! 
