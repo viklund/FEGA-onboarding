@@ -74,7 +74,7 @@
   - [Finland](https://research.csc.fi/-/fega)
   - [Germany](https://www.ghga.de/)
   - [Norway](https://ega.elixir.no/)
-  - [Spain](TBD)
+  - [Spain](https://fega-test.bsc.es/docs/)
   - [Sweden](https://nbis.se/infrastructure/sensitive-data-archive.html)
   - Others?
 - ELIXIR Federated Human Data Community
