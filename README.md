@@ -27,7 +27,7 @@ Summary of Federated EGA node responsiblities:
 | Hosts data | Hosts and/or owns data |
 | Shares metadata & allows global discovery | Shares metadata to allow global discovery |
 | Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
-| Has Helpdesk for CEGA data | Has Helpdesk responsible for own data/jurisdiction |
+| Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chair the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
