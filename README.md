@@ -48,6 +48,10 @@ Summary of Federated EGA node responsiblities:
 
 Based on our experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
 
+One typical path for becoming a full Federated EGA member:
+
+<img src="./images/Path to becoming full FEGA member_5.jpg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+
 These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
