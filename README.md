@@ -12,7 +12,7 @@ If you are reading this, you are probably looking for information on how to join
 
 These materials provide guidance for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
-## Federated EGA at a glance
+## What is Federated EGA?
 
 **The Federated EGA is the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
 
