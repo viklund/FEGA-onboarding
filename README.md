@@ -40,7 +40,7 @@ Summary of Federated EGA node responsiblities:
 - Involved in **data and metadata standards** for establishing a Federated EGA node? Start [here](#data-and-metadata-standards-for-establishing-a-node)! 
   - For bioinformaticians, data stewards, support officers, etc.
 - Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
-  - For data stewards, support officers, outreach/communications officers,training organisers, etc.
+  - For data stewards, support officers, outreach/communications officers, training organisers, etc.
 
 **These links don't point anywhere - they should link to new pages with organised materials.**
 
