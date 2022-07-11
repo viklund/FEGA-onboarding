@@ -36,7 +36,7 @@
 - FEGA Collaboration Agreement
 - DPIA - examples? info? templates?
 - DPA - examples? info? templates?
-  - [EGA] (https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf) - EGA DPA
+  - [EGA](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf) - EGA DPA
   - Norway?
 - External links
   - [GDPR](https://gdpr-info.eu/)
