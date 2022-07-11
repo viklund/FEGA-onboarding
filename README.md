@@ -14,6 +14,14 @@ These materials provide guidance for establishing a node in the Federated EGA Ne
 
 ## Federated EGA at a glance
 
+**The Federated EGA is the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
+
+Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
+
+Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
+
+Summary of Federated EGA node responsiblities:
+
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
 | Hosts data | Hosts and/or owns data |
@@ -22,12 +30,6 @@ These materials provide guidance for establishing a node in the Federated EGA Ne
 | Has Helpdesk for CEGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chair the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
-
-
-
-
-
-
 
 ## Where do I start?
 
