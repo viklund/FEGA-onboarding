@@ -1,4 +1,4 @@
-<img src="./images/FEGA-logo-generic.jpg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+<img src="./images/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
 # Establishing a Federated EGA Node
 
