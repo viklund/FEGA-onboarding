@@ -33,7 +33,13 @@ Welcome! If you are involved in technical or operational aspects of establishing
   - [Readthedocs](https://localega.readthedocs.io/)
 
 
-### SOPs
+### Standard Operating Procedures (SOPs)
+
+It is useful to establish SOPs for common node operational tasks to enable consistent service delivery and streamline internal processes. A template for writing and SOP can be found [here](https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg/edit?usp=sharing).
+
+SOPs for CEGA and FEGA Helpdesk staff to interact
+- [Federated EGA Metadata Check and Release Protocol](https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing)
+- [Federated EGA Request from submitter to submit to FEGA node](https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing)
 
 - [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
 
