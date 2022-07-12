@@ -2,8 +2,7 @@
 
 ## Communications etc.
 
-- FEGA logo
-  - ![FEGA logo](https://github.com/malloryfreeberg/fega-onboarding-draft/blob/main/docs/assets/img/FEGA-logo-generic.svg)
+- FEGA logo (svg format) ![FEGA logo](/docs/assets/img/FEGA-logo-generic.svg)
 - FEGA mailing lists
   - Share FEGA Strategic Committee mailing list?
   - Share FEGA Operations Committee mailing list?
