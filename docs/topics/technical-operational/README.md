@@ -1,50 +1,47 @@
 # Technical and Operational
 
-"Technical and Operational" covers topics related to: Technical Infrastructure, Testing, Software/Hardware, SOPs, Helpdesk, and Team Building.
+Welcome! If you are involved in technical or operational aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to: technical infrastructure, testing, software/hardware, SOPs, Helpdesk, and team capacity building.
 
-## Documents
+### You might find this page useful if you are:
+- a technical team leader
+- responsible for procuring resources 
+- a software developer or engineer
+- a bioinformatician
+- a support officer
 
-## Interactive materials
+### After reading this page, you will be able to: (bloom verb - topic (what) - tech (how))
+- Set up minimial local EGA service components
+- Understand guidelines and standards for establishing and operating a node
+- Test your node implementation
+- Interact with Central EGA using RabbitMQ
+- Plan your node end-to-end demonstrator
 
-- Videos
-  - tbd
-- List of standards?
-  - e.g. table of GA4GH standards
+## What you need
 
-## Technical materials
+### Standards & Guidelines
 
+- List of standards e.g. table of GA4GH standards, ELIXIR standards, others?
+- [Node Operations Guidelines](https://ega-archive.org/files/EGA-Node-Operations-v2.pdf)
+  - The EGA Federated Node Operations gives an overview of the operational areas which require resources in order to create a federated EGA node. The document is based on more than 10 years experience of establishing and operating the EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+- [Overview of local EGA services and architecture](https://www.youtube.com/watch?v=k9R8W3V3ugU) (video, 19 June 2020)
+
+### Software
+
+- [ELIXIR-CONVERGE D7.2 Implementation and documentation to create an operational EGA node](https://zenodo.org/record/4893191) (report, 2 June 2021)
 - Local EGA software
   - [Software GH repo](https://github.com/EGA-archive/LocalEGA)
   - [Readthedocs](https://localega.readthedocs.io/)
-  
-## Technical infrastructure
 
-- Local EGA software
-  - [GitHub repository](https://github.com/EGA-archive/LocalEGA)
-  - [Readthedocs](https://localega.readthedocs.io/)
-- [ELIXIR-CONVERGE D7.2 Implementation and documentation to create an operational EGA node](https://zenodo.org/record/4893191) (report, 2 June 2021)
-- [Overview of local EGA services and architecture](https://www.youtube.com/watch?v=k9R8W3V3ugU) (video, 19 June 2020)
+
+### SOPs
+
+- [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
+
+## Examples
+
 - [Norway, Sweden, and Finland FEGA node architecture and implementation](https://www.youtube.com/watch?v=eEoKmMKGCc4) (video, 19 June 2020)
 - [Further details on the Norwegian node](https://www.youtube.com/watch?v=DSd_UJyqoGU) (video, 19 June 2020)
-- [Compliance testing info](TBD)
-- [Stress testing info](TBD)
-- Example implementations from other nodes
-
-- [Node Operations Guidelines](https://ega-archive.org/files/EGA-Node-Operations-v2.pdf)
-  - The EGA Federated Node Operations gives an overview of the operational areas which require resources in order to create a federated EGA node. The document is based on more than 10 years experience of establishing and operating the EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
-- [Roadmap for FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
-- [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
 - [Example service-specific CEGA SOPs](TBD)
-
-## Operations
-
-- [Node Operations Guidelines](https://ega-archive.org/files/EGA-Node-Operations-v2.pdf)
-  - The EGA Federated Node Operations gives an overview of the operational areas which require resources in order to create a federated EGA node. The document is based on more than 10 years experience of establishing and operating the EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
-- [Roadmap for FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
-- [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
-- [Example service-specific CEGA SOPs](TBD)
-
-## Communities and support
 
 - FEGA node websites
   - [Finland](https://research.csc.fi/-/fega)
@@ -52,8 +49,22 @@
   - [Norway](https://ega.elixir.no/)
   - [Spain](https://fega-test.bsc.es/docs/)
   - [Sweden](https://nbis.se/infrastructure/sensitive-data-archive.html)
-  - Others?
+
+## Your implementation
+
+- [Roadmap for FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
+
+### Testing
+
+- [Compliance testing info](TBD)
+- [Stress testing info](TBD)
+
+## More information / support
+
 - ELIXIR Federated Human Data Community
-  - [About](https://elixir-europe.org/communities/human-data)
   - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
   - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
+
+## Frequentyly asked questions
+
+- TBD
