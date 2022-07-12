@@ -2,17 +2,6 @@
 
 ## Communications etc.
 
-- FEGA node websites
-  - [Finland](https://research.csc.fi/-/fega)
-  - [Germany](https://www.ghga.de/)
-  - [Norway](https://ega.elixir.no/)
-  - [Spain](https://fega-test.bsc.es/docs/)
-  - [Sweden](https://nbis.se/infrastructure/sensitive-data-archive.html)
-  - Others?
-- ELIXIR Federated Human Data Community
-  - [About](https://elixir-europe.org/communities/human-data)
-  - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
-  - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
 - FEGA mailing lists
   - Share FEGA Strategic Committee mailing list?
   - Share FEGA Operations Committee mailing list?
