@@ -11,7 +11,7 @@ site_author: Marcos Casado & Albert Hornos
 repo_url: ''
 edit_on_github: true
 github_docs_folder: true
-logo: 'docs/assets/img/FEGA-logo-generic.jpg'
+logo: 'docs/assets/img/FEGA-logo-generic.svg'
 #site_favicon: 'https://your.url/here.ico'
 sticky_navigation: true
 prev_next_buttons_location: None
