@@ -37,7 +37,7 @@ OPTION 1: The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europ
   - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
   - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
 
-OPTION 2: There are two point of entries for the [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data). 
+OPTION 2: There are two entry points for the [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data). 
 
 | Entry point | Information |
 | ----------- | ----------- |
