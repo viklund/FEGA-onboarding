@@ -10,7 +10,7 @@ After reading this page, you will:
 - Understand the FEGA metadata schema and how the objects are linked to each other
 - Identify data models specific to a dieases (i.e. COVID-19 data model), and apply them when needed
 - Comprehend the (meta)data submission flow step by step
-- Understand how the user accounts are managed
+- Understand how user accounts are managed
 
 ## Links
 - [GA4GH standards](https://ega-archive.org/ga4gh)
