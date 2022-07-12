@@ -2,14 +2,7 @@
 
 "Technical and Operational" covers topics related to: Technical Infrastructure, Testing, Software/Hardware, SOPs, Helpdesk, and Team Building.
 
-## Documents
-
-## Interactive materials
-
-- Videos
-  - tbd
-- List of standards?
-  - e.g. table of GA4GH standards
+Target: software developers and engineers, bioinformaticians, support officers, etc.
 
 ## Technical materials
 
@@ -43,6 +36,13 @@
 - [Roadmap for FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
 - [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
 - [Example service-specific CEGA SOPs](TBD)
+
+## Interactive materials
+
+- Videos
+  - tbd
+- List of standards?
+  - e.g. table of GA4GH standards
 
 ## Communities and support
 
