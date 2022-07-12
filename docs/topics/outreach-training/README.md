@@ -13,15 +13,25 @@
 - find FEGA outreach materials
 - find news and updates related to FEGA and its nodes
 
-## Communications etc.
+## Communication materials
 - FEGA logo (svg format) ![FEGA logo](/docs/assets/img/FEGA-logo-generic.svg)
-- FEGA mailing lists
-  - Share FEGA Strategic Committee mailing list?
-  - Share FEGA Operations Committee mailing list?
-  - Create a general info mailing list for FEGA?
+
+## Internal communication channels
+- The ELIXIR Federated Human Data Community is the entry-point for a Node interested in joining the FEGA Network: 
+  - [About](https://elixir-europe.org/communities/human-data)
+  - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
+  - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
+- FEGA has two mailing lists available: 
+  - FEGA Strategic Committee mailing list: **DEFINITION?** Mailing list by invitation to obeserver and operating node.
+  - FEGA Operations Committee mailing list: **DEFINITION?** Mailing list by invitation to obeserver and operating node.
+  - **Create a general info mailing list for FEGA?**
+
+## External communication channels
 - Twitter
   - [Official EGA account](https://twitter.com/EGAarchive)
-  - Tags: #FederatedEGA, #Federated @EGAarchive 
+  - To mention FEGA you can use any of these two options: 
+     - the hashtag #FederatedEGA
+     - the combination of hashatg and mention #Federated @EGAarchive 
 
 ## News and updates
 - ["Federated EGA Updates in 2022" (ELIXIR AHM 2022)](https://doi.org/10.7490/f1000research.1118988.1) (slides, 8 June 2022)
