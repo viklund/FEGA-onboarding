@@ -10,13 +10,13 @@ Welcome! If you are involved in technical or operational aspects of establishing
 - a support officer
 
 ### After reading this page, you will be able to: (bloom verb - topic (what) - tech (how))
-- Set up minimial local EGA service components
 - Understand guidelines and standards for establishing and operating a node
-- Test your node implementation
+- Set up your node using the local EGA software stack
 - Interact with Central EGA using RabbitMQ
+- Evaluate your node implementation
 - Plan your node end-to-end demonstrator
 
-## What you need
+## Understand about what you need
 
 ### Standards & Guidelines
 
@@ -37,7 +37,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 - [Shared FEGA-CEGA SOPs](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)
 
-## Examples
+## Learn from current node implementations
 
 - [Norway, Sweden, and Finland FEGA node architecture and implementation](https://www.youtube.com/watch?v=eEoKmMKGCc4) (video, 19 June 2020)
 - [Further details on the Norwegian node](https://www.youtube.com/watch?v=DSd_UJyqoGU) (video, 19 June 2020)
@@ -50,14 +50,12 @@ Welcome! If you are involved in technical or operational aspects of establishing
   - [Spain](https://fega-test.bsc.es/docs/)
   - [Sweden](https://nbis.se/infrastructure/sensitive-data-archive.html)
 
-## Your implementation
-
-- [Roadmap for FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
-
-### Testing
+## Evaluate your implementation
 
 - [Compliance testing info](TBD)
 - [Stress testing info](TBD)
+- **Something about the Maturity Model self-assessment here**
+- [Roadmap for FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
 
 ## More information / support
 
@@ -65,6 +63,6 @@ Welcome! If you are involved in technical or operational aspects of establishing
   - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
   - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
 
-## Frequentyly asked questions
+## Frequently asked questions
 
 - TBD
