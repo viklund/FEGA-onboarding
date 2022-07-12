@@ -1,8 +1,8 @@
 # Technical and Operational
 
-"Technical and Operational" covers topics related to: Technical Infrastructure, Testing, Software/Hardware, SOPs, Helpdesk, and Team Building.
+This page covers topics related to: Technical Infrastructure, Testing, Software/Hardware, SOPs, Helpdesk, and Team Building.
 
-Target: software developers and engineers, bioinformaticians, support officers, etc.
+Target of audience: software developers and engineers, bioinformaticians, support officers, etc.
 
 ## Technical materials
 
