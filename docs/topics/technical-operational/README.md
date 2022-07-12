@@ -1,10 +1,3 @@
----
-layout: default
-title: Technical and Operational
-excerpt: TBD (description).
-nav_order: 2
----
-
 # Technical and Operational
 
 "Technical and Operational" covers topics related to: Technical Infrastructure, Testing, Software/Hardware, SOPs, Helpdesk, and Team Building.

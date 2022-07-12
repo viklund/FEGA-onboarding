@@ -1,4 +1,4 @@
-<img src="./images/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+<img src="./docs/assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
 # Establishing a Federated EGA Node
 
@@ -59,7 +59,7 @@ Based on our experience, governance and legal development of a node usually happ
 
 One typical path for becoming a full Federated EGA member:
 
-<img src="./images/Path to becoming full FEGA member_5.jpg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="./docs/assets/img/Path to becoming full FEGA member_5.jpg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
 These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
