@@ -33,8 +33,7 @@ Summary of Federated EGA node responsiblities:
 
 ## How do I start?
 
-The ELIXIR Federated Human Data Community (FHD) provide a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. Join us!
-  - [About](https://elixir-europe.org/communities/human-data)
+The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provide a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. Join us!
   - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
   - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
 
