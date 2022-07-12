@@ -1,17 +1,25 @@
-title: FEGA Onboarding
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: FEGA Onboarding Knowledge base
+description: Knowledge base for Onboarding Federated EGA nodes.
 
 # Development server config, needed to load some of the content
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 
-# Theme settings
+# Specific to this theme
 site_author: Marcos Casado & Albert Hornos
 repo_url: ''
 edit_on_github: true
 github_docs_folder: true
+logo: 'assets/img/FEGA-logo-generic.jpg'
+#site_favicon: 'https://your.url/here.ico'
 sticky_navigation: true
-prev_next_buttons_location: both
+prev_next_buttons_location: None
+#prev_next_buttons_location: top
+#prev_next_buttons_location: bottom
+#prev_next_buttons_location: both
 search_enabled: true
+#google_analytics: UA-XXXXX-Y
+#google_analytics_anonymize_ip: true
+# The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
 hljs_style: github-gist
