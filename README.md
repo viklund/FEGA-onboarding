@@ -31,6 +31,13 @@ Summary of Federated EGA node responsiblities:
 | Chair the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
+## How do I start?
+
+The ELIXIR Federated Human Data Community (FHD) provide a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. Join us!
+  - [About](https://elixir-europe.org/communities/human-data)
+  - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
+  - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
+
 ## Where do I start?
 
 - Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](#governance-and-legal-aspects-of-establishing-a-node)! 
