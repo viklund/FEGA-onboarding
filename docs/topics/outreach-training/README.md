@@ -22,8 +22,8 @@
   - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
   - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
 - FEGA has two mailing lists available: 
-  - FEGA Strategic Committee mailing list: **DEFINITION?** Mailing list by invitation to obeserver and operating node.
-  - FEGA Operations Committee mailing list: **DEFINITION?** Mailing list by invitation to obeserver and operating node.
+  - FEGA Strategic Committee mailing list: **DEFINITION?** Mailing list by invitation to observer and operating node.
+  - FEGA Operations Committee mailing list: **DEFINITION?** Mailing list by invitation to observer and operating node.
   - **Create a general info mailing list for FEGA?**
 
 ## External communication channels
