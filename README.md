@@ -2,9 +2,6 @@
 
 # Establishing a Federated EGA Node
 
-**This readme is a placeholder for draft content before we set up the real repository on EGA-archive and organise it to render a useful website, like how the [Galaxy Training Network](https://github.com/galaxyproject/training-material) does it.**
-**The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd)**
-
 Welcome to this collection of onboarding materials for establishing a Federated EGA Node!
 
 ## What am I doing here?
@@ -83,3 +80,4 @@ Please see our [contributing guide](CONTRIBUTING.md) for information on how to c
 
 We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners (**To be listed somewhere**).
 
+**The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd)**
