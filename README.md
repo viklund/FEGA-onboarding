@@ -56,8 +56,6 @@ There are two point of entries for the [ELIXIR Federated Human Data Community (F
 - Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
   - For data stewards, support officers, outreach/communications officers, training organisers, etc.
 
-**These links don't point anywhere - they should link to new pages with organised materials.**
-
 ## What does the journey look like?
 
 Based on our experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
