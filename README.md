@@ -41,18 +41,18 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 
 ## Where do I start?
 
-- Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](#governance-and-legal-aspects-of-establishing-a-node)! 
+- Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](./docs/topics/governance-legal#readme)!
   - For data protection officers, data stewards, policy makers, strategic decision makers, etc.
-- Involved in **technical or operational aspects** of establishing a Federated EGA node? Start [here](#technical-and-operational-aspects-of-establishing-a-node)! 
+- Involved in **technical or operational aspects** of establishing a Federated EGA node? Start [here](./docs/topics/technical-operational#readme)! 
   - For software developers and engineers, bioinformaticians, support officers, etc.
-- Involved in **data and metadata standards** for establishing a Federated EGA node? Start [here](#data-and-metadata-standards-for-establishing-a-node)! 
+- Involved in **data and metadata standards** for establishing a Federated EGA node? Start [here](./docs/topics/data-metadata-standards#readme)!
   - For bioinformaticians, data stewards, support officers, etc.
-- Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
+- Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](./docs/topics/outreach-training#readme)!
   - For data stewards, support officers, outreach/communications officers, training organisers, etc.
 
 ## What does the journey look like?
 
-Based on our experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
+Based on current experiences, governance and legal development of a node usually happens in parallel with technical and operational development. You may find your path differs slightly for a variety of reasons - that's ok! 
 
 One typical path for becoming a full Federated EGA member:
 
