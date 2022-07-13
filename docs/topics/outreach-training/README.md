@@ -17,13 +17,12 @@
 - FEGA logo (svg format) ![FEGA logo](/docs/assets/img/FEGA-logo-generic.svg)
 
 ## Internal communication channels
-- The ELIXIR Federated Human Data Community is the entry-point for a Node interested in joining the FEGA Network: 
-  - [About](https://elixir-europe.org/communities/human-data)
+- The [ELIXIR Federated Human Data Community](https://elixir-europe.org/communities/human-data) is the entry-point for a Node interested in joining the FEGA Network: 
   - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
   - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
-- FEGA has two mailing lists available: 
-  - FEGA Strategic Committee mailing list: **DEFINITION?** Mailing list by invitation to observer and operating node.
-  - FEGA Operations Committee mailing list: **DEFINITION?** Mailing list by invitation to observer and operating node.
+- Federated EGA has mailing lists for various communications: 
+  - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA
+  - FEGA Operations Committee mailing list (invitation-only): For reviewing operational performance and coordinating technical roadmaps
   - **TODO: Create a general info mailing list for FEGA**
 
 ## External communication channels
