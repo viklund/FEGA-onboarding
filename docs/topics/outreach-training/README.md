@@ -24,7 +24,7 @@
 - FEGA has two mailing lists available: 
   - FEGA Strategic Committee mailing list: **DEFINITION?** Mailing list by invitation to observer and operating node.
   - FEGA Operations Committee mailing list: **DEFINITION?** Mailing list by invitation to observer and operating node.
-  - **Create a general info mailing list for FEGA?**
+  - **TODO: Create a general info mailing list for FEGA**
 
 ## External communication channels
 - Twitter
@@ -39,4 +39,4 @@
 - ["Federated EGA: where are we now?" (ELIXIR AHM 2021)](https://doi.org/10.7490/f1000research.1119006.1) (slides, 11 June 2021)
 
 ## Miscellancy (find a new home)
-- [FEGA page on EGA website](https://ega-archive.org/federated) --> to be re-worked in the future
+- [FEGA page on EGA website](https://ega-archive.org/federated)
