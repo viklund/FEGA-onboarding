@@ -61,7 +61,7 @@ There is no time limit on establishing a Federated EGA Node. Onboarding will tak
 
 ## Usage
 
-The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (**TBD**).
+The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (**TBD**). The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd).
 
 If you want to build the website locally, please have a look at this tutorial (**TBD**).
 
@@ -76,5 +76,3 @@ Please see our [contributing guide](CONTRIBUTING.md) for information on how to c
 ## Acknowledgements
 
 We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners (**To be listed somewhere**).
-
-**The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd)**
