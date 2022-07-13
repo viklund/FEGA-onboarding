@@ -1,8 +1,6 @@
 <img src="./docs/assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
 # Establishing a Federated EGA Node
-*This readme is a placeholder for draft content before we set up the real repository on EGA-archive and organise it to render a useful website, like how the [Galaxy Training Network](https://github.com/galaxyproject/training-material) does it.**
-**The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd)**
 
 Welcome to this collection of onboarding materials for establishing a Federated EGA Node!
 
@@ -20,7 +18,7 @@ Over the last 10 years, most individual-level human omics data have been generat
 
 Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
 
-Summary of Federated EGA node responsiblities:
+Summary of Federated EGA node responsibilities:
 
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
