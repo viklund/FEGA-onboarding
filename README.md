@@ -18,7 +18,7 @@ Over the last 10 years, most individual-level human omics data have been generat
 
 Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
 
-Summary of Federated EGA node responsibilities:
+Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated EGA nodes (national/local jurisdictions):
 
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
@@ -26,12 +26,12 @@ Summary of Federated EGA node responsibilities:
 | Shares metadata & allows global discovery | Shares metadata to allow global discovery |
 | Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
-| Chair the Federated EGA Committees | Participates actively in the Federated EGA Committees |
+| Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
 ## How do I start?
 
-The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the following two entry points, join us!
+The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the following open channels, join us!
 
 | Entry point | Information |
 | ----------- | ----------- |
