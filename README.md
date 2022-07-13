@@ -39,16 +39,13 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
 
 
-## Where do I start?
+If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./docs/topics/governance-legal#readme). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-- Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](./docs/topics/governance-legal#readme)!
-  - For data protection officers, data stewards, policy makers, strategic decision makers, etc.
-- Involved in **technical or operational aspects** of establishing a Federated EGA node? Start [here](./docs/topics/technical-operational#readme)! 
-  - For software developers and engineers, bioinformaticians, support officers, etc.
-- Involved in **data and metadata standards** for establishing a Federated EGA node? Start [here](./docs/topics/data-metadata-standards#readme)!
-  - For bioinformaticians, data stewards, support officers, etc.
-- Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](./docs/topics/outreach-training#readme)!
-  - For data stewards, support officers, outreach/communications officers, training organisers, etc.
+If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./docs/topics/technical-operational#readme). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
+
+If you are involved in **data and metadata standards** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](./docs/topics/data-metadata-standards#readme). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
+
+If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](./docs/topics/outreach-training#readme). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
 
 ## What does the journey look like?
 
