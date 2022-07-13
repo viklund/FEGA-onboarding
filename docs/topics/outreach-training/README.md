@@ -3,7 +3,7 @@
 ## Who is this page for:
 - data stewards
 - support officers
-- outreach oofficers
+- outreach officers
 - communications officers
 - training organisers and coordinators
 - trainers
