@@ -1,14 +1,15 @@
 # Data and Metadata Standards
 
-## Who is this for?
+Welcome! If you are involved in data or metadata standards aspects of establishing a Federated EGA node, you are in the right place.
 
-Bioinformaticians, data stewards, support officers, etc.
+#### You might find this page useful if you are:
+- a bioinformatician
+- a data steward
+- a support officer
 
-## Learning Outcomes
-
-After reading this page, you will:
+#### By exploring these materials, you will be able to:
 - Understand the FEGA metadata schema and how the objects are linked to each other
-- Identify data models specific to a dieases (i.e. COVID-19 data model), and apply them when needed
+- Identify data models specific to a diseases (i.e. COVID-19 data model) and apply them when needed
 - Comprehend the (meta)data submission flow step by step
 - Understand how user accounts are managed
 
