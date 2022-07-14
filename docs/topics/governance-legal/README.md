@@ -29,6 +29,15 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
   - Norway?
 
 
+- [FEGA Strategic Committee Terms of Reference (ToR)](https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf)
+  - The structure of an EGA federated network and service expectations. We organise the EGA into three types of nodes: Central EGA, Federated EGA nodes and EGA Community nodes; we outline the goals of such an organization, and summarize the commitments and services provided by the nodes.
+- [FEGA Operations Committee Terms of Reference (ToR)](https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf)
+  - In the EGA Federation Strategic Committee terms of reference document we describe the purpose and objectives of the committee, which is to provide direction and strategic planning for the federated EGA project. The committee receives input from the EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
+- [EGA Federation: Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf)
+  - The EGA Federation Operations Committee terms of reference describes the purpose and objectives of the operations committee, which is to review operational performance and coordinate technical implementation roadmaps of EGA Federated and Community nodes. The committee receives advice from the EGA Federated Strategic Committee, and provides operational reporting to the EGA Federated Strategic Committee
+- [Pathway to becoming a FEGA node](TBD)
+- [ELIXIR-CONVERGE D7.1 Report of use-cases and architecture for the EGA federation](https://zenodo.org/record/4893063) (report, 2 June 2021)
+
 ## Documents
 
 
@@ -36,13 +45,9 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 - [Federated EGA Operations Committee Terms of Reference (v1.1)](https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf) - The EGA Federation Operations Committee terms of reference describes the purpose and objectives of the operations committee, which is to review operational performance and coordinate technical implementation roadmaps of EGA Federated and Community nodes. The committee receives advice from the EGA Federated Strategic Committee, and provides operational reporting to the EGA Federated Strategic Committee
 - [FEGA Node Operations guidelines (v2.0)](https://ega-archive.org/files/EGA-Node-Operations-v2.pdf) - The EGA Federated Node Operations gives an overview of the operational areas which require resources in order to create a federated EGA node. The document is based on more than 10 years experience of establishing and operating the EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 
-
-#### More documents:
-
 - External links
   - [GDPR](https://gdpr-info.eu/)
   - [Data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD) - training materials from ELIXIR
-
 
 ## Interactive materials
 

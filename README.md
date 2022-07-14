@@ -18,7 +18,7 @@ Over the last 10 years, most individual-level human omics data have been generat
 
 Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
 
-Summary of Federated EGA node responsiblities:
+Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated EGA nodes (national/local jurisdictions):
 
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
@@ -26,12 +26,12 @@ Summary of Federated EGA node responsiblities:
 | Shares metadata & allows global discovery | Shares metadata to allow global discovery |
 | Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
-| Chair the Federated EGA Committees | Participates actively in the Federated EGA Committees |
+| Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
 ## How do I start?
 
-The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the following two entry points, join us!
+The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the following open channels, join us!
 
 | Entry point | Information |
 | ----------- | ----------- |
@@ -39,24 +39,21 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
 
 
-## Where do I start?
+If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./docs/topics/governance-legal#readme). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-- Involved in **governance or legal aspects** of establishing a Federated EGA node? Start [here](#governance-and-legal-aspects-of-establishing-a-node)! 
-  - For data protection officers, data stewards, policy makers, strategic decision makers, etc.
-- Involved in **technical or operational aspects** of establishing a Federated EGA node? Start [here](#technical-and-operational-aspects-of-establishing-a-node)! 
-  - For software developers and engineers, bioinformaticians, support officers, etc.
-- Involved in **data and metadata standards** for establishing a Federated EGA node? Start [here](#data-and-metadata-standards-for-establishing-a-node)! 
-  - For bioinformaticians, data stewards, support officers, etc.
-- Involved in **outreach or training aspects** of establishing a Federated EGA node? Start [here](#outreach-and-training-aspects-of-establishing-a-node)! 
-  - For data stewards, support officers, outreach/communications officers, training organisers, etc.
+If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./docs/topics/technical-operational#readme). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
+
+If you are involved in **data and metadata standards** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](./docs/topics/data-metadata-standards#readme). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
+
+If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](./docs/topics/outreach-training#readme). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
 
 ## What does the journey look like?
 
-Based on our experience, governance and legal development of a node usually happens in parallel with technical and operational development, followed by development of user-facing components once a node is minimally operating. You may find your path differs slightly for a variety of reasons - that's ok! 
+Based on current experiences, governance and legal development of a node usually happens in parallel with technical and operational development. You may find your path differs slightly for a variety of reasons - that's ok! 
 
 One typical path for becoming a full Federated EGA member:
 
-<img src="./docs/assets/img/Path to becoming full FEGA member_5.jpg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="./docs/assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
 These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
@@ -64,7 +61,7 @@ There is no time limit on establishing a Federated EGA Node. Onboarding will tak
 
 ## Usage
 
-The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (**TBD**).
+The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (**TBD**). The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd).
 
 If you want to build the website locally, please have a look at this tutorial (**TBD**).
 
@@ -79,5 +76,3 @@ Please see our [contributing guide](CONTRIBUTING.md) for information on how to c
 ## Acknowledgements
 
 We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners (**To be listed somewhere**).
-
-**The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd)**
