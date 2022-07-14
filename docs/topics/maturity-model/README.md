@@ -17,16 +17,15 @@ Welcome! If you are involved in any aspect of establishing a Federated EGA node,
 
 The Federated EGA Maturity Model is envisioned as a mechanism to drive engagement and disengagement of nodes being part of the Federated EGA. The Maturity Model is divided into different domains, sub-domains, and indicators, each with a 5-level maturation scale. 
 
-| Maturity Level | Level Description | Level Goal |
+| Level | Description | Goal |
 | --- | --- | --- |
-| Level 1 | No specific actions taken towards a fully operational FEGA node | Drive initial node development |
-| Level 2 | Being aware of the needs and initial actions taken to become a FEGA node | Drive initial node development |
-| Level 3 | Working to establish a minimally operational FEGA node | Reach fully operational node |
-| Level 4 | Becoming a fully operational FEGA node | Reach fully operational node |
-| Level 5 | Maintaining a fully operational FEGA node with periodic review of the status | Ensure alignment with latest specifications |
+| 1 | No specific actions taken towards a fully operational FEGA node | Drive initial node development |
+| 2 | Being aware of the needs and initial actions taken to become a FEGA node | Drive initial node development |
+| 3 | Working to establish a minimally operational FEGA node | Reach fully operational node |
+| 4 | Becoming a fully operational FEGA node | Reach fully operational node |
+| 5 | Maintaining a fully operational FEGA node with periodic review of the status | Ensure alignment with latest specifications |
 
-Explore the [Website](https://inab.github.io/fega-mm/)
-  - [GitHub](https://github.com/inab/fega-mm) 
+Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated **[website](https://inab.github.io/fega-mm/)** or on **[GitHub](https://github.com/inab/fega-mm)**.
   
 ## Evaluate against the FEGA Maturity Model
 
