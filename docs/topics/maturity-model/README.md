@@ -1,4 +1,17 @@
-# Maturity model
+# Federated EGA Maturity Model
+
+Welcome! If you are involved in any aspect of establishing a Federated EGA node, you are in the right place. The information here covers topics related to the Federated EGA Maturity Model.
+
+#### You might find this page useful if you are:
+- involved in governance or legal aspects
+- involved in technical or operational aspects
+- involved in outreach or training aspects
+- involved in data or metadata standards aspects
+
+#### By exploring these materials, you will be able to:
+- Understand the areas in which a FEGA node matures
+- Evaluate your node implementation against maturity indicators
+- Compare requirements against other initiative Maturity Models
 
 - Maturity Model
   - [Website](https://inab.github.io/fega-mm/)
