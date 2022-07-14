@@ -1,4 +1,4 @@
-# Federated EGA Maturity Model
+# Maturity Model
 
 Welcome! If you are involved in any aspect of establishing a Federated EGA node, you are in the right place. The information here covers topics related to the Federated EGA Maturity Model.
 
@@ -41,7 +41,9 @@ Explore details of the indicators and levels of the FEGA Maturity Model on a ded
 - ["Resource considerations for establishing and operating a federated human data node"](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022)
 - ["FEGA node costing discussion"](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (audio recording, 1 March 2022)
 
-Links to related initiatives/projects like
-  - [1+MG](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making.)
-  - [B1MG](https://b1mg-project.eu/)
+## Explore related maturity models
 
+1. Beyond One Million Genomes (B1MG) [Maturity Level Model (MLM)](https://zenodo.org/record/6587561#.YtB4huzMLt0) and [project website](https://b1mg-project.eu/)
+1. [ELIXIR Human Data Infrastructure Maturation Model](https://elixir-europe.github.io/human-data-maturity-model/)
+1. FAIRplus [Dataset Maturity Model](https://fairplus.github.io/Data-Maturity/) and [project website](https://faircookbook.elixir-europe.org/content/recipes/maturity.html)
+1. [European 1+ Million Genomes Initiative (1+MG)](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making.)
