@@ -15,7 +15,15 @@ Welcome! If you are involved in any aspect of establishing a Federated EGA node,
 
 ## Learn about the FEGA Maturity Model
 
-The Federated EGA Maturity Model is envisioned as a mechanism to drive engagement and disengagement of nodes being part of the Federated EGA. The Maturity Model is divided into different domains, sub-domains, and indicators, each with a 5-level maturation scale. 
+The Federated EGA Maturity Model is a mechanism to drive engagement and disengagement of nodes being part of the Federated EGA. The Maturity Model is divided into different domains, sub-domains, and maturity indicators. The domains are:
+- Governance, Strategy, and Sustainability
+- Legal
+- Data and Metadata Management
+- Technical Infrastructure
+- Operations Support
+- Communications, Community Building, and Engagement
+
+Each indicator outlines stages of maturity with a 5-level maturation scale:
 
 | Level | Description | Goal |
 | --- | --- | --- |
