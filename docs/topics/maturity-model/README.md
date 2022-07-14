@@ -37,9 +37,11 @@ Explore details of the indicators and levels of the FEGA Maturity Model on a ded
   
 ## Evaluate against the FEGA Maturity Model
 
-- [First node self-assessment results](https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86) (sildes, 8 June 2022)
-- ["Resource considerations for establishing and operating a federated human data node"](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022)
-- ["FEGA node costing discussion"](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (audio recording, 1 March 2022)
+Perform a self-assessment of your node against the Maturity Model (link TBD).
+
+Explore aggregated results of the [first node self-assessments](https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86) (slides, 8 June 2022).
+
+Hear about first-hand experiences [costing a FEGA node](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (audio recording, 1 March 2022) and read about [resource considerations for establishing and operating a federated human data node](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022).
 
 ## Explore related maturity models
 
