@@ -9,7 +9,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 - a bioinformatician
 - a support officer
 
-#### After reading this page, you will be able to:
+#### By exploring these materials, you will be able to:
 - Understand guidelines and standards for establishing and operating a node
 - Set up your node using the local EGA software stack
 - Interact with Central EGA using RabbitMQ
