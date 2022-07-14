@@ -1,18 +1,18 @@
 # Governance and Legal
 
-"Governance and Legal" covers topics related to: Governance, Strategy, Sustainability, and Legal 
+Welcome! If you are involved in governance or legal aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to Federated EGA node governance, strategic planning, sustainability, and legal.
 
-## Who is this section for? 
-- Team or node leads
-- grant writers
-- project managers
-- lawyers/legal experts
-- Data protection officers (DPOs)
-- more ?
+#### You might find this page useful if you are:
+- a team or node lead
+- a grant writer
+- a project manager or coordinator
+- a lawyer or legal expert
+- a data protection officer (DPO)
 
-## After reading this page, you will:  
-- Understand the governance and legal aspects to operating a federated EGA node
-- 
+#### By exploring these materials, you will be able to:
+- Evaluate the roles and responsibilities of your node within the FEGA Network
+- Understand the role of Committees within the FEGA Network
+- Make use of examples and templates to define your node's governance and legal policies
 
 ## Governance structure, vision and strategy
 - [EGA Federation: Structure and Organization (v1.1)](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf) - The structure of an EGA federated network and service expectations. We organise the EGA into three types of nodes: Central EGA, Federated EGA nodes and EGA Community nodes; we outline the goals of such an organization, and summarize the commitments and services provided by the nodes.
