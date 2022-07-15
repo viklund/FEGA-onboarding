@@ -45,21 +45,21 @@ Central EGA largely adhere to [GA4GH standards](https://ega-archive.org/ga4gh). 
 | refget | Enables access to reference sequences using an identifier derived from the sequence itself. | v1.2.6 | N/A | [Specification](http://samtools.github.io/hts-specs/refget.html), Documentation, Endpoint | [DOI](https://doi.org/10.1093/bioinformatics/btab524) |
 | Researcher IDs (passport, visa) | Specifies the collection of researchers that may access a dataset at any given time, and the credentials they must supply. | v1.0.1 | v1.0.1 | [Specification](https://github.com/ga4gh-duri/ga4gh-duri.github.io/blob/master/researcher_ids/ga4gh_passport_v1.md), [Documentation](https://docs.google.com/document/d/1FTzUYAfV5d2a0zoDkbY9Iy_L5NbSAnHeWnmY2NIrY8M/edit), [Endpoint](https://ega.ebi.ac.uk:8443/ega-permissions/swagger-ui/index.html) | [DOI](https://doi.org/10.1016/j.xgen.2021.100030) |
 
-### Data/file standards
+### Data file standards
 
-Recommended file formats for
+Recommended file formats for:
 - Sequencing data (unaligned or aligned reads): [CRAM](http://samtools.github.io/hts-specs/CRAMv3.pdf), [BAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
 - Variant data: [VCF](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
 - Phenotype data: [Phenopackets](https://doi.org/10.1101/2021.11.27.21266944)
 
 ### Metadata standards
 
-- EGA metadata model/schema
-- Ontologies
-- Community-specific standards
-  - [ELIXIR-CONVERGE D7.3 COVID-19 metadata mapping model across COVID-19 studies in federated EGA](https://zenodo.org/record/4893222) (report, 2 June 2021)
-  - COVID-19 HGI
-  - Others, e.g. infectious disease, cancer, rare disease
+The following resources represent EGA and community guidelines for submitted metadata:
+- [EGA metadata model/schema](TBD)
+- Ontologies: [Experimental Factor Ontology](https://www.ebi.ac.uk/efo/), [Data Use Ontology](https://github.com/EBISPOT/DUO)
+- Community-specific standards:
+  - [COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)](https://zenodo.org/record/4893222) (report, 2 June 2021)
+  - [COVID-19 Host Genetics Initiative data dictionary](https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528)
 
 ### Quality control
 
