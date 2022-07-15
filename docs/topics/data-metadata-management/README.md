@@ -12,7 +12,7 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 - Define data security and access management best practices
 - Understand the EGA metadata standard and it's minimal requirements
 - Identify data models specific to a domain (e.g. COVID-19) and apply them when needed
-- Comprehend the (meta)data flow within the FEGA Network
+- Comprehend the (meta)data flow within the Federated EGA Network
 
 ## Data security
 
@@ -20,7 +20,7 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 Central EGA has a [Security Strategy](https://ega-archive.org/files/European_Genome_phenome_Archive_Security_Overview.pdf) which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the [GA4GH Security Technology Infrastructure document](https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/2016May10_REV_SecInfrastructure.pdf), which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the [GA4GH Privacy and Security Policy](https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/Privacy-and-Security-Policy.pdf).
 
-Summary of best practices recommended for FEGA nodes:
+Summary of best practices recommended for Federated EGA nodes:
 
 | Item | Description | Examples/Templates |
 |:---|:---|:---|
@@ -30,7 +30,7 @@ Summary of best practices recommended for FEGA nodes:
 ### Access management
 
 **TODO**
-- Describe the distributed data acces model and DACs
+- Describe the distributed data access model and DACs
 - Describe benefits/use of DUO, Crypt4GH, Passports, and Visas
 
 ## Standards
@@ -59,7 +59,7 @@ The following resources represent EGA and community guidelines for submitted met
 - [EGA metadata model](https://ega-archive.org/submission/sequence/programmatic_submissions/prepare_xml)
 - Ontologies: [Experimental Factor Ontology](https://www.ebi.ac.uk/efo/), [Data Use Ontology](https://github.com/EBISPOT/DUO)
 - Community-specific standards:
-  - [COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)](https://zenodo.org/record/4893222) (report, 2 June 2021)
+  - [COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)](https://zenodo.org/record/4893222)
   - [COVID-19 Host Genetics Initiative data dictionary](https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528)
 
 ### Quality control
@@ -71,4 +71,8 @@ The following resources represent EGA and community guidelines for submitted met
 **TODO**
 - Add definitions of data types under GDPR and the FEGA Legal Agreement (e.g. sensitive, personal, business)
 - Points to the [FEGA data flow diagram](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126)
+
+## What's next?
+
+**TODO**: Define next step of journey
 
