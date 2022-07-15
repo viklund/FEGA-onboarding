@@ -34,14 +34,23 @@ Summary of best practices recommended for FEGA nodes:
 
 ## Standards
 
-Largely adhere to [GA4GH standards](https://ega-archive.org/ga4gh). More details below.
+Central EGA largely adhere to [GA4GH standards](https://ega-archive.org/ga4gh). Specific standards already implemented are summarised below:
+
+| Standard | Purpose | Specification Version | Supported Version | Implementation | Publication/Preprint |
+|:---|:---|:---|:---|:---|:---|
+| Beacon | Supports discovery of genomic variants, individuals, and individuals | v1.0.1 | v0.3 | [Specification](https://github.com/ga4gh-beacon/specification-v2), [Documentation](https://ega-archive.org/beacon/#/), [Endpoint](https://ega-archive.org/beacon-api/) | N/A |
+| Crypt4GH | Enables direct byte-level compatible random access to encrypted genetic data stored in community standards (e.g. CRAM, VCF) | v1.0 | v1.0 | [Specification](http://samtools.github.io/hts-specs/crypt4gh.pdf), [Documentation](https://github.com/EGA-archive/crypt4gh), [Endpoints](https://ega-archive.org/federated#) | [DOI](https://doi.org/10.1093/bioinformatics/btab087) |
+| Data Use Ontology (DUO) | Allows users to semantically tag datasets with usage restrictions so datasets can be automatically discoverable based on a researcher's authorization level or intended use. | 2021-02-23 | 2021-02-23 | [Specification](https://github.com/EBISPOT/DUO), [Documentation](https://ega-archive.org/data-use-conditions), [Endpoint](https://www.ebi.ac.uk/ols/api/ontologies) | [DOI](https://doi.org/10.1016/j.xgen.2021.100028) |
+| htsget | Enables secure, efficient, and reliable access to sequencing read and variation data. | v1.3.0 | v1.0.0 | [Specification](http://samtools.github.io/hts-specs/htsget.html), [Documentation](https://github.com/EGA-archive/ega-download-client), [Endpoint](https://ega.ebi.ac.uk:8052/elixir/tickets/tickets) | [DOI](https://doi.org/10.1093/bioinformatics/bty492)|
+| refget | Enables access to reference sequences using an identifier derived from the sequence itself. | v1.2.6 | N/A | [Specification](http://samtools.github.io/hts-specs/refget.html), Documentation, Endpoint | [DOI](https://doi.org/10.1093/bioinformatics/btab524) |
+| Researcher IDs (passport, visa) | Specifies the collection of researchers that may access a dataset at any given time, and the credentials they must supply. | v1.0.1 | v1.0.1 | [Specification](https://github.com/ga4gh-duri/ga4gh-duri.github.io/blob/master/researcher_ids/ga4gh_passport_v1.md), [Documentation](https://docs.google.com/document/d/1FTzUYAfV5d2a0zoDkbY9Iy_L5NbSAnHeWnmY2NIrY8M/edit), [Endpoint](https://ega.ebi.ac.uk:8443/ega-permissions/swagger-ui/index.html) | [DOI](https://doi.org/10.1016/j.xgen.2021.100030) |
 
 ### Data/file standards
 
-- File formats - GA4GH
-- File formats - not GA4GH
-- Encryption (e.g. Crypt4GH)
-- Pheno-clinical data as Phenopackets
+Recommended file formats for
+- Sequencing data (unaligned or aligned reads): [CRAM](http://samtools.github.io/hts-specs/CRAMv3.pdf), [BAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
+- Variant data: [VCF](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
+- Phenotype data: [Phenopackets](https://doi.org/10.1101/2021.11.27.21266944)
 
 ### Metadata standards
 
