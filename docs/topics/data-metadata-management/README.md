@@ -1,6 +1,6 @@
 # Data and Metadata Management
 
-Welcome! If you are involved in data or metadata standards aspects of establishing a Federated EGA node, you are in the right place.
+Welcome! If you are involved in data or metadata standards aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to best practices for data security, data access management, (meta)data standards, and data flow.
 
 #### You might find this page useful if you are:
 - a bioinformatician
@@ -9,11 +9,10 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 - a support officer
 
 #### By exploring these materials, you will be able to:
-- Define data security best practices
-- Comprehend the (meta)data flow within the FEGA Network
+- Define data security and access management best practices
 - Understand the FEGA metadata schema and how the objects are linked to each other
 - Identify data models specific to a diseases (e.g. COVID-19 data model) and apply them when needed
-- Understand how user accounts are managed
+- Comprehend the (meta)data flow within the FEGA Network
 
 ## Data security
 
