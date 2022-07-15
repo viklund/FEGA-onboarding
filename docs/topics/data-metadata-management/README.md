@@ -18,11 +18,14 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 ### Best practices
 
-Central EGA has a [Security Strategy](https://ega-archive.org/files/European_Genome_phenome_Archive_Security_Overview.pdf) which defines best practices in ensuring data are stored securely. The EGA contributes and helps develop the recommendations outlined the GA4GH Security Technology Infrastructure document, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the GA4GH Privacy and Security Policy .
+Central EGA has a [Security Strategy](https://ega-archive.org/files/European_Genome_phenome_Archive_Security_Overview.pdf) which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the [GA4GH Security Technology Infrastructure document](https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/2016May10_REV_SecInfrastructure.pdf), which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the [GA4GH Privacy and Security Policy](https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/Privacy-and-Security-Policy.pdf).
 
-Other topics
-- Breach response protocol
-- Risk register/assessment
+Summary of best practices recommended for FEGA nodes:
+
+| Item | Description | Examples/Templates |
+|:---|:---|:---|
+| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, CEGA, key contacts, and institutional/organisational policies. | TBD |
+| Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | TBD |
 
 ### Access management
 
