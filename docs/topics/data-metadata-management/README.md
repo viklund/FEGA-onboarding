@@ -10,8 +10,8 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 #### By exploring these materials, you will be able to:
 - Define data security and access management best practices
-- Understand the FEGA metadata schema and how the objects are linked to each other
-- Identify data models specific to a diseases (e.g. COVID-19 data model) and apply them when needed
+- Understand the EGA metadata standard and it's minimal requirements
+- Identify data models specific to a domain (e.g. COVID-19) and apply them when needed
 - Comprehend the (meta)data flow within the FEGA Network
 
 ## Data security
@@ -29,8 +29,9 @@ Summary of best practices recommended for FEGA nodes:
 
 ### Access management
 
-- DACs - describe what they are
-- DUO
+**TODO**
+- Describe the distributed data acces model and DACs
+- Describe benefits/use of DUO, Crypt4GH, Passports, and Visas
 
 ## Standards
 
@@ -55,7 +56,7 @@ Recommended file formats for:
 ### Metadata standards
 
 The following resources represent EGA and community guidelines for submitted metadata:
-- [EGA metadata model/schema](TBD)
+- [EGA metadata model](https://ega-archive.org/submission/sequence/programmatic_submissions/prepare_xml)
 - Ontologies: [Experimental Factor Ontology](https://www.ebi.ac.uk/efo/), [Data Use Ontology](https://github.com/EBISPOT/DUO)
 - Community-specific standards:
   - [COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)](https://zenodo.org/record/4893222) (report, 2 June 2021)
@@ -63,10 +64,11 @@ The following resources represent EGA and community guidelines for submitted met
 
 ### Quality control
 
-What to say here?
+**TODO**: Add content here
 
 ## Data flow
 
-- Definitions of data under GDPR
-- [FEGA data flow diagram](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126)
+**TODO**
+- Add definitions of data types under GDPR and the FEGA Legal Agreement (e.g. sensitive, personal, business)
+- Points to the [FEGA data flow diagram](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126)
 
