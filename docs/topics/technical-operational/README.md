@@ -56,11 +56,11 @@ Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing 
 ## 2. Learn from current node implementations
 
 Check-out current Federated EGA node implementations from some of the first established nodes:
-- [FEGA Finland](https://research.csc.fi/-/fega)
+- [Finnish FEGA Node](https://research.csc.fi/-/fega)
 - [German Human Genome-phenome Archive (GHGA)](https://www.ghga.de/)
-- [FEGA Norway](https://ega.elixir.no/)
-- [FEGA Spain](https://fega-test.bsc.es/docs/)
-- [FEGA Sweden](https://nbis.se/infrastructure/sensitive-data-archive.html)
+- [Federated EGA Norway](https://ega.elixir.no/)
+- [Spanish FEGA (es-FEGA)](https://fega-test.bsc.es/docs/)
+- [Swedish Sensitive Data Archive](https://nbis.se/infrastructure/sensitive-data-archive.html)
 
 Hear more details about node implementations:
 - [Norway, Sweden, and Finland FEGA node architecture and implementation](https://www.youtube.com/watch?v=eEoKmMKGCc4) (video, 19 June 2020)
