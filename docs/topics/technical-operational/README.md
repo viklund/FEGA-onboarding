@@ -1,15 +1,23 @@
+---
+excerpt: Short description TBD
+layout: default
+title: Technical and Operational
+nav_order: 4
+has_children: false
+has_toc: false
+---
 # Technical and Operational
 
 Welcome! If you are involved in technical or operational aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to technical infrastructure, testing, software/hardware, SOPs, Helpdesk, and team capacity building.
 
-#### You might find this page useful if you are:
+**You might find this page useful if you are:**
 - a technical team leader
 - responsible for procuring resources 
 - a software developer or engineer
 - a bioinformatician
 - a support officer
 
-#### By exploring these materials, you will be able to:
+**By exploring these materials, you will be able to:**
 - Understand guidelines and standards for establishing and operating a node
 - Set up your node using the local EGA software stack
 - Interact with Central EGA using RabbitMQ
