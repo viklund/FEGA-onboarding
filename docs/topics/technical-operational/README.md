@@ -32,22 +32,35 @@ More information about the local EGA software and its implementation can be foun
 
 ### Standard Operating Procedures (SOPs)
 
-It is useful to establish SOPs for common node operational tasks to enable consistent service delivery and streamline internal processes. A template for writing an SOP can be found [here](https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg/edit?usp=sharing).
+It is useful to establish SOPs for common node operational tasks to enable consistent service delivery and streamline internal processes. Use this **[template to develop SOPs for your own node](https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg/edit?usp=sharing)**.
 
-SOPs are in place which define specific interactions between Central EGA and Federated EGA Helpdesk staff:
-- [Federated EGA Metadata Check and Release Protocol](https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing)
+Standard interactions between Central EGA and Federated EGA node Helpdesk staff have been developed into a set of SOPs. Follow these SOPs below.
+
+#### Shared FEGA<->CEGA SOPs
 - [Federated EGA Request from submitter to submit to FEGA node](https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing)
+- [Federated EGA Metadata Check and Release Protocol](https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing)
 
-Additional FEGA SOPs and supporting materials can be found in this [shared Google Drive](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing).
+Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing processes and internal processes. Explore some examples of these SOPs below (and organised **[here](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)**). Please note these are example SOPs and will need to be adapted to how your node operates!
+
+#### Example User-facing Process SOPs
+- [Handling Incomplete Submissions](https://docs.google.com/document/d/1gze9UW3yBN2TmFNFS3NFsHxPrdWNx-A74lFsxj8Xs_Q/edit?usp=sharing)
+- [Handling Unresponsive DACs](https://docs.google.com/document/d/16_5G97hUUyU2-vjHAD-Yb7XNRCE6A_PQWRWERqnDSFY/edit?usp=sharing)
+- [Users Sharing Credentials](https://docs.google.com/document/d/1NHNTmhfguAgCKyLuf1tQAdYWLAeCFBUeFYgONdd17bY/edit?usp=sharing)
+- [Reporting Unreasonable Users](https://docs.google.com/document/d/1DC_HJaePbaDomNe-99fdAyZ1d4CodBfqU2uavCcpL3g/edit?usp=sharing)
+- [Changing User Institution](https://docs.google.com/document/d/1geswkX9Com_Y4bnbLEtTKd0XXG6ByuADlCsLHppf074/edit?usp=sharing)
+
+#### Example Internal Node Process SOPs
+- [Helpdesk Ticket Management](https://docs.google.com/document/d/1qIURMTn6-cDv9ZxVsVkJSK5SUcK7Wq-jxbFuD_6gT34/edit?usp=sharing)
+- [Helpdesk Ticket Assignment](https://docs.google.com/document/d/10GWK-iw12JF_JX0KL2aUTjsZ8G2liw2A-t_PV5Y81FY/edit?usp=sharing)
 
 ## 2. Learn from current node implementations
 
 Check-out current Federated EGA node implementations from some of the first established nodes:
-- [FEGA Finland](https://research.csc.fi/-/fega)
+- [Finnish FEGA Node](https://research.csc.fi/-/fega)
 - [German Human Genome-phenome Archive (GHGA)](https://www.ghga.de/)
-- [FEGA Norway](https://ega.elixir.no/)
-- [FEGA Spain](https://fega-test.bsc.es/docs/)
-- [FEGA Sweden](https://nbis.se/infrastructure/sensitive-data-archive.html)
+- [Federated EGA Norway](https://ega.elixir.no/)
+- [Spanish FEGA (es-FEGA)](https://fega-test.bsc.es/docs/)
+- [Swedish Sensitive Data Archive](https://nbis.se/infrastructure/sensitive-data-archive.html)
 
 Hear more details about node implementations:
 - [Norway, Sweden, and Finland FEGA node architecture and implementation](https://www.youtube.com/watch?v=eEoKmMKGCc4) (video, 19 June 2020)
