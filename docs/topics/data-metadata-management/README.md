@@ -64,14 +64,23 @@ The following resources represent EGA and community guidelines for submitted met
 
 ### Quality control
 
-**Coming soon!**
+Coming soon!
 
 ## Data flow
 
 **TODO**
-- Add definitions of data types under GDPR and the FEGA Legal Agreement (e.g. sensitive, personal, business)
-- Points to the [FEGA data flow diagram](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126)
+
+### Data definitions
+
+As defined in the Federated EGA Collaboration Agreement, and in alignment with definitions outlined in the GDPR, the following data definitions are used in the context of Federated EGA:
+
+- **Administrative Data**. Data which are generated through the operation of Federated EGA. This may include personal data according to Art. 4 Nr. 1 GDPR which is directly identifying, such as names and email addresses which are used to communicate with, and support, service users. It may also include personal data and business data which are used internally by staff working on behalf of EGA Central or Federated EGA Nodes and exchanged between them.
+- **Non-personal Metadata**. Information that describes or annotates research data to facilitate its interpretation or to describe the relationship between data elements that cannot be used to identify a data subject. For example, the name of the instrument used to generate the data. Non-personal metadata generated or processed by the Node will be shared with EGA Central for inclusion in a searchable, online, public metadata catalogue.
+- **Personal Metadata**. Information that describes or annotates research data to facilitate its interpretation or to describe the relationship between data elements that has the potential to identify a data subject. For example, demographic or ancestry information that can be used to identify individuals. Personal metadata are not made available through a public metadata catalogue and are not shared between EGA Central and the Node.
+- **Research Data**. Omics or other forms of genetic (according to Art. 4 Nr. 13 GDPR) and health data (according to Art. 4 Nr. 15 GDPR) that are used for scientific research purposes. This is considered to be special category personal data under Art. 9(1) in conjunction with Art. 4 Nr. 1 GDPR.
+
+Here you can view how the different types of [data flow within the Federated EGA network](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126).
 
 ## What's next?
 
-**Coming soon!**
+Coming soon!
