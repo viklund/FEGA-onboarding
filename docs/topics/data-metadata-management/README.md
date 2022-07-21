@@ -66,11 +66,7 @@ The following resources represent EGA and community guidelines for submitted met
 
 Coming soon!
 
-## Data flow
-
-**TODO**
-
-### Data definitions
+## Data definitions and flow
 
 As defined in the Federated EGA Collaboration Agreement, and in alignment with definitions outlined in the GDPR, the following data definitions are used in the context of Federated EGA:
 
