@@ -42,7 +42,7 @@ Federated EGA is governed by two permanent committees:
 
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
 
-<img src="docs/assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="1200"  align="center" />
+<img src="../../../docs/assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="1200"  align="center" />
 
 ## Data Protection and Impact Analysis
 - DPIA - examples? info? templates? 
