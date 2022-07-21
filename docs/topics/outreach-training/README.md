@@ -1,14 +1,22 @@
+---
+excerpt: Short description TBD
+layout: default
+title: Outreach and Training
+nav_order: 3 
+has_children: false
+has_toc: false
+---
 # Outreach and Training
 
 Welcome! If you are involved in outreach, communications, or training aspects of establishing a Federated EGA node, you are in the right place.
 
-#### You might find this page useful if you are:
+**You might find this page useful if you are:**
 - a data steward
 - a support officer
 - an outreach or communications officer
 - coordinating, organising, or providing training
 
-#### By exploring these materials, you will be able to:
+**By exploring these materials, you will be able to:**
 - Interact with FEGA communication channels
 - Find FEGA outreach materials
 - Share news and updates related to FEGA and its nodes

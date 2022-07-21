@@ -1,3 +1,11 @@
+---
+excerpt: Short description TBD
+layout: default
+title: Data and Metadata Standards
+nav_order: 2 
+has_children: false
+has_toc: false
+---
 # Data and Metadata Standards
 
 - [GA4GH standards](https://ega-archive.org/ga4gh)

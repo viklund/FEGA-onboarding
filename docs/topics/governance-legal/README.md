@@ -1,3 +1,11 @@
+---
+excerpt: Short description TBD
+layout: default
+title: Governance and Legal
+nav_order: 5
+has_children: false
+has_toc: false
+---
 # Governance and Legal
 
 Welcome! If you are involved in governance or legal aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to Federated EGA node governance, strategic planning, sustainability, and legal.
