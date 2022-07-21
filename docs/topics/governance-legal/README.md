@@ -33,6 +33,10 @@ Over the last 10 years, most individual-level human omics data have been generat
 
 Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
 
+### Use cases
+
+Understand more about the current [use cases and architecture for the Federated EGA](https://zenodo.org/record/4893063) as reported by the inaugural Federated EGA nodes.
+
 ### Organisation
 
 Here is described the [Federated EGA Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf). Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsiblities of each type of node.
@@ -44,10 +48,6 @@ Federated EGA is governed by two permanent committees:
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
 
 <img src="../../../docs/assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
-
-### Use cases
-
-- [ELIXIR-CONVERGE D7.1 Report of use-cases and architecture for the EGA federation](https://zenodo.org/record/4893063) (report, 2 June 2021)
 
 ## Legal
 
