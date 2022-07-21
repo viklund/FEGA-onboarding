@@ -18,8 +18,9 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 - a data protection officer (DPO)
 
 **By exploring these materials, you will be able to:**
-- Evaluate the roles and responsibilities of your node within the FEGA Network
-- Understand the role of Committees within the FEGA Network
+- Understand the aims of the Federated EGA
+- Understand the role of Committees and Working Groups within the Federated EGA
+- Evaluate the roles and responsibilities of your node within the Federated EGA
 - Make use of examples and templates to define your node's governance and legal policies
 
 ## Governance
@@ -44,43 +45,30 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 <img src="../../../docs/assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
 
-## Data Protection and Impact Analysis
-- DPIA - examples? info? templates? 
+### Use cases
+
+- [ELIXIR-CONVERGE D7.1 Report of use-cases and architecture for the EGA federation](https://zenodo.org/record/4893063) (report, 2 June 2021)
 
 ## Legal
 
+### FEGA Collaboration Agreement
+
 Inclusion in the Federated EGA is codified by signing of the [Federated EGA Collaboration Agreement](TBD) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
 
-- DPA - examples? info? templates?
-  - [EGA](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf) - EGA DPA
-  - Norway?
+Check out the pathway to becoming a Federated EGA node which outlines governance (as well as technical) steps to join the Federated EGA Network:
 
-- [EGA Federation: Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf)
-  - The structure of an EGA federated network and service expectations. We organise the EGA into three types of nodes: Central EGA, Federated EGA nodes and EGA Community nodes; we outline the goals of such an organization, and summarize the commitments and services provided by the nodes.
-- [Pathway to becoming a FEGA node](TBD)
-- [ELIXIR-CONVERGE D7.1 Report of use-cases and architecture for the EGA federation](https://zenodo.org/record/4893063) (report, 2 June 2021)
+<img src="../../../docs/assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+
+### Data Processing Agreement (DPA)
+
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the [EGA Data Processing Agreement](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf). Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors. 
+
+### Data Protection and Impact Analysis (DPIA)
+
+Coming soon!
 
 ## Documents
-
-
-- [Federated EGA Strategic Committee Terms of Reference (v1.1)](https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf) - In the EGA Federation Strategic Committee terms of reference document we describe the purpose and objectives of the committee, which is to provide direction and strategic planning for the federated EGA project. The committee receives input from the EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
-- [Federated EGA Operations Committee Terms of Reference (v1.1)](https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf) - The EGA Federation Operations Committee terms of reference describes the purpose and objectives of the operations committee, which is to review operational performance and coordinate technical implementation roadmaps of EGA Federated and Community nodes. The committee receives advice from the EGA Federated Strategic Committee, and provides operational reporting to the EGA Federated Strategic Committee
-- [FEGA Node Operations guidelines (v2.0)](https://ega-archive.org/files/EGA-Node-Operations-v2.pdf) - The EGA Federated Node Operations gives an overview of the operational areas which require resources in order to create a federated EGA node. The document is based on more than 10 years experience of establishing and operating the EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 
 - External links
   - [GDPR](https://gdpr-info.eu/)
   - [Data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD) - training materials from ELIXIR
-
-## Interactive materials
-
-- Federated EGA Maturity Model
-  - [The model](https://inab.github.io/fega-mm/) - Read about the MM
-  - [Self-assessment tool](TBD) - Assess your node against the MM
-  - [GitHub repository](https://github.com/inab/fega-mm) - Contribute to developing the model; provide feedback.
-- Path to becoming a node
-  - **Graphic TBD**
-
-## Communities and support
-
-- [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data)
-- etc
