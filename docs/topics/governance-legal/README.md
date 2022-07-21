@@ -23,7 +23,7 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 - Evaluate the roles and responsibilities of your node within the Federated EGA
 - Make use of examples and templates to define your node's governance and legal policies
 
-## Governance
+## 1. Governance
 
 ### Vision
 
@@ -49,7 +49,7 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 <img src="../../../docs/assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
 
-## Legal
+## 2. Legal
 
 ### FEGA Collaboration Agreement
 
@@ -67,8 +67,11 @@ As Central EGA is a Data Processor under GDPR definitions, all data submitters a
 
 Coming soon!
 
-## Documents
+## 3. Additional resources
 
-- External links
-  - [GDPR](https://gdpr-info.eu/)
-  - [Data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD) - training materials from ELIXIR
+- More about [EU GDPR](https://gdpr-info.eu/).
+- Training materials developed by ELIXIR-Luxembourg on [data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD)
+
+## 4. What's next?
+
+Coming soon!
