@@ -1,3 +1,11 @@
+---
+excerpt: Short description TBD
+layout: default
+title: Governance and Legal
+nav_order: 5
+has_children: false
+has_toc: false
+---
 # Governance and Legal
 
 "Governance and Legal" covers topics related to: Governance, Strategy, Sustainability, and Legal.
