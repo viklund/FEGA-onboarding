@@ -10,14 +10,14 @@ has_toc: false
 
 Welcome! If you are involved in governance or legal aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to Federated EGA node governance, strategic planning, sustainability, and legal.
 
-#### You might find this page useful if you are:
+**You might find this page useful if you are:**
 - a team or node lead
 - a grant writer
 - a project manager or coordinator
 - a lawyer or legal expert
 - a data protection officer (DPO)
 
-#### By exploring these materials, you will be able to:
+**By exploring these materials, you will be able to:**
 - Evaluate the roles and responsibilities of your node within the FEGA Network
 - Understand the role of Committees within the FEGA Network
 - Make use of examples and templates to define your node's governance and legal policies
