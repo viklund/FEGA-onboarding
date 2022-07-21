@@ -2,7 +2,7 @@
 excerpt: Short description TBD
 layout: default
 title: Data and Metadata Management
-nav_order: 23
+nav_order: 3
 has_children: false
 has_toc: false
 ---
