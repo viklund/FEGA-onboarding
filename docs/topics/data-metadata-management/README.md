@@ -22,9 +22,7 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 - Identify data models specific to a domain (e.g. COVID-19) and apply them when needed
 - Comprehend the (meta)data flow within the Federated EGA Network
 
-## Data security
-
-### Best practices
+## Data security best practices
 
 Central EGA has a [Security Strategy](https://ega-archive.org/files/European_Genome_phenome_Archive_Security_Overview.pdf) which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the [GA4GH Security Technology Infrastructure document](https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/2016May10_REV_SecInfrastructure.pdf), which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the [GA4GH Privacy and Security Policy](https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/Privacy-and-Security-Policy.pdf).
 
@@ -34,12 +32,6 @@ Summary of best practices recommended for Federated EGA nodes:
 |:---|:---|:---|
 | Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, CEGA, key contacts, and institutional/organisational policies. | TBD |
 | Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | TBD |
-
-### Access management
-
-**TODO**
-- Describe the distributed data access model and DACs
-- Describe benefits/use of DUO, Crypt4GH, Passports, and Visas
 
 ## Standards
 
@@ -72,7 +64,7 @@ The following resources represent EGA and community guidelines for submitted met
 
 ### Quality control
 
-**TODO**: Add content here
+**Coming soon!**
 
 ## Data flow
 
@@ -82,5 +74,4 @@ The following resources represent EGA and community guidelines for submitted met
 
 ## What's next?
 
-**TODO**: Define next step of journey
-
+**Coming soon!**
