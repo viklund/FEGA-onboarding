@@ -30,7 +30,8 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 - DPIA - examples? info? templates? 
 
 ## Legal
-- FEGA Collaboration Agreement
+
+Inclusion in the Federated EGA is codified by signing of the [Federated EGA Collaboration Agreement](TBD) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
 
 - DPA - examples? info? templates?
   - [EGA](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf) - EGA DPA
