@@ -4,7 +4,7 @@ title: FEGA Knowledge Base
 nav_order: 1
 ---
 
-<img src="./docs/assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+<img src="./assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
 # Establishing a Federated EGA Node
 
@@ -45,13 +45,13 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
 
 
-If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./docs/topics/governance-legal#readme). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
+If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./topics/governance-legal#readme). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./docs/topics/technical-operational#readme). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
+If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](./topics/technical-operational#readme). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
 
-If you are involved in **data and metadata standards** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](./docs/topics/data-metadata-standards#readme). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
+If you are involved in **data and metadata standards** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](./topics/data-metadata-standards#readme). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
 
-If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](./docs/topics/outreach-training#readme). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
+If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](./topics/outreach-training#readme). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
 
 ## What does the journey look like?
 
@@ -59,7 +59,7 @@ Based on current experiences, governance and legal development of a node usually
 
 One typical path for becoming a full Federated EGA member:
 
-<img src="./docs/assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
 These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
