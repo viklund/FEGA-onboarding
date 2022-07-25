@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom sidebar */
+.wy-side-nav-search {
+  background-color: #fcfcfc;
+}
+
+.wy-nav-side {
+  background-color: #155177;
+}
+
+.wy-menu-vertical a {
+  color: #ffffff;
+}
+
+.wy-menu-vertical a:hover {
+  background-color: #5e9cc3;
+  color: #ffffff;
+}
+
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
+  color: #155177;
+}
