@@ -47,7 +47,7 @@ Federated EGA is governed by two permanent committees:
 
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
 
-<img src="../../../docs/assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
+<img src="assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
 
 ## 2. Legal
 
@@ -61,7 +61,7 @@ Check out the pathway to becoming a Federated EGA node which outlines governance
 
 ### Data Processing Agreement (DPA)
 
-As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the [EGA Data Processing Agreement](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf). Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors. 
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the [EGA Data Processing Agreement](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf). Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
 ### Data Protection and Impact Analysis (DPIA)
 
