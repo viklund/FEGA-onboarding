@@ -31,7 +31,6 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 - Federated EGA has mailing lists for various communications: 
   - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA
   - FEGA Operations Committee mailing list (invitation-only): For reviewing operational performance and coordinating technical roadmaps
-  - **TODO: Create a general info mailing list for FEGA**
 
 ## External communication channels
 - Twitter
