@@ -40,7 +40,6 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 ## 2. Incorporate communication materials
 - FEGA logo (svg format) <img src="../../../docs/assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
-
 ## 3. Follow news and updates
 - ["Federated EGA Updates in 2022" (ELIXIR AHM 2022)](https://doi.org/10.7490/f1000research.1118988.1) (slides, 8 June 2022)
 - ["Working together towards a Federated European Genome-phenome Archive for Publishing and re-using sensitive research data"](https://www.csc.fi/-/working-together-towards-a-federated-european-genome-phenome-archive) (blog post, 15 March 2022)
