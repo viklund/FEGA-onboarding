@@ -57,7 +57,7 @@ Inclusion in the Federated EGA is codified by signing of the [Federated EGA Coll
 
 Check out the pathway to becoming a Federated EGA node which outlines governance (as well as technical) steps to join the Federated EGA Network:
 
-<img src="../../../docs/assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
 ### Data Processing Agreement (DPA)
 
