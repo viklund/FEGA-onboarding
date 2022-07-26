@@ -34,6 +34,7 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
+
 <br/><br/>
 
 ## How do I start?
@@ -44,6 +45,7 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 | ----------- | ----------- |
 | ELIXIR FHD Mailing list | [join us here](https://elixir-europe.org/intranet/join-groups), select "Human Data" |
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
+
 <br/><br/>
 
 If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/governance-legal/). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
