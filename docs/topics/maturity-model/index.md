@@ -40,6 +40,7 @@ Each indicator outlines stages of maturity with a 5-level maturation scale:
 | 3 | Working to establish a minimally operational FEGA node | Reach fully operational node |
 | 4 | Becoming a fully operational FEGA node | Reach fully operational node |
 | 5 | Maintaining a fully operational FEGA node with periodic review of the status | Ensure alignment with latest specifications |
+<br/><br/>
 
 Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated **[website](https://inab.github.io/fega-mm/)** or on **[GitHub](https://github.com/inab/fega-mm)**.
   

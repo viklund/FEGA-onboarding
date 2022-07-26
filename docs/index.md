@@ -34,7 +34,7 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
-
+<br/><br/>
 
 ## How do I start?
 
@@ -44,7 +44,7 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 | ----------- | ----------- |
 | ELIXIR FHD Mailing list | [join us here](https://elixir-europe.org/intranet/join-groups), select "Human Data" |
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
-
+<br/><br/>
 
 If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/governance-legal/). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
@@ -60,7 +60,7 @@ Based on current experiences, governance and legal development of a node usually
 
 One typical path for becoming a full Federated EGA member:
 
-<img src="./docs/assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
 These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
 
