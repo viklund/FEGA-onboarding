@@ -22,8 +22,8 @@ This document describes how you can contribute to the development of onboarding 
  - Anyone interested in improving onboarding materials for establishing a FEGA node
 
 **What *isn't* in this document?**
-- Training materials for using FEGA services (e.g. data discovery, data submission, data access). **TBD where this can be found**
-- Onboarding materials for establishing a FEGA node. This information can be found here **Link to README of this repo**.
+- Training materials for using FEGA services (e.g. data discovery, data submission, data access). (Coming soon!)
+- Onboarding materials for establishing a FEGA node. This information can be found [here](https://ega-archive.github.io/FEGA-onboarding/).
 
 ## Requesting changes to FEGA onboarding materials
 
@@ -41,7 +41,7 @@ To request changes to FEGA onboarding materials, follow the steps below:
 
 ## Example request for changes to FEGA onboarding materials
 
-**TBD**
+Coming soon!
 
 ## Proposing changes to FEGA onboarding materials
 
@@ -51,11 +51,14 @@ To propose changes to FEGA onboarding materials, follow the steps below:
 
 1. **Create a new branch** in your local fork for the change(s) you would like to propose. We suggest one type of change per branch.
 
-1. **Make the changes** you would like to propose. See [this guide](TBD) for guidance and templates for creating new content.
+1. **Make the changes** you would like to propose.
+    1. Coming soon! Guidance and templates for creating new content.
 
-1. **Open a pull request** from your local branch to the main branch of this repo. Request reviewers. **TBD template for PR description**.
+1. **Open a pull request** from your local branch to the main branch of this repo. Request reviewers and add labels to the PR.
+    1. Coming soon! Template for creating a PR.
 
-1. **Track progress** of PR. Once the PR is accepted (**criteria TBD**), a repo maintainer will merge it.
+1. **Track progress** of PR. Once the PR is accepted, a repo maintainer will merge it.
+    1. Coming soon! PR acceptance criteria.
 
 ## Reporting bugs
 
