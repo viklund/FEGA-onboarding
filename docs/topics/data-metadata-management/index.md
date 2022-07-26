@@ -32,6 +32,7 @@ Summary of best practices recommended for Federated EGA nodes:
 |:---|:---|:---|
 | Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, CEGA, key contacts, and institutional/organisational policies. | TBD |
 | Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | TBD |
+
 <br/><br/>
 
 ## 2. Explore implemented standards
@@ -46,6 +47,7 @@ Central EGA largely adhere to [GA4GH standards](https://ega-archive.org/ga4gh). 
 | htsget | Enables secure, efficient, and reliable access to sequencing read and variation data. | v1.3.0 | v1.0.0 | [Specification](http://samtools.github.io/hts-specs/htsget.html), [Documentation](https://github.com/EGA-archive/ega-download-client), [Endpoint](https://ega.ebi.ac.uk:8052/elixir/tickets/tickets) | [DOI](https://doi.org/10.1093/bioinformatics/bty492)|
 | refget | Enables access to reference sequences using an identifier derived from the sequence itself. | v1.2.6 | N/A | [Specification](http://samtools.github.io/hts-specs/refget.html), Documentation, Endpoint | [DOI](https://doi.org/10.1093/bioinformatics/btab524) |
 | Researcher IDs (passport, visa) | Specifies the collection of researchers that may access a dataset at any given time, and the credentials they must supply. | v1.0.1 | v1.0.1 | [Specification](https://github.com/ga4gh-duri/ga4gh-duri.github.io/blob/master/researcher_ids/ga4gh_passport_v1.md), [Documentation](https://docs.google.com/document/d/1FTzUYAfV5d2a0zoDkbY9Iy_L5NbSAnHeWnmY2NIrY8M/edit), [Endpoint](https://ega.ebi.ac.uk:8443/ega-permissions/swagger-ui/index.html) | [DOI](https://doi.org/10.1016/j.xgen.2021.100030) |
+
 <br/><br/>
 
 ### Data file standards
