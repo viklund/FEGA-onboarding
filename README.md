@@ -69,10 +69,8 @@ If you want to build the website locally, please have a look at this tutorial (*
 
 The content of the FEGA onboarding materials and website are licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Contributing
-
-Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenace of these materials. Thank you in advance for your contributions!
-
 ## Acknowledgements
 
-We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners (**To be listed somewhere**).
+We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners.
+
+Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
