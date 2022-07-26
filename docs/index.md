@@ -4,7 +4,7 @@ title: FEGA Knowledge Base
 nav_order: 1
 ---
 
-<img src="./docs/assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+<img src="./assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
 # Establishing a Federated EGA Node
 
@@ -35,6 +35,7 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
+
 ## How do I start?
 
 The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the following open channels, join us!
@@ -43,6 +44,7 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 | ----------- | ----------- |
 | ELIXIR FHD Mailing list | [join us here](https://elixir-europe.org/intranet/join-groups), select "Human Data" |
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
+
 
 If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/governance-legal/). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
@@ -66,9 +68,9 @@ There is no time limit on establishing a Federated EGA Node. Onboarding will tak
 
 ## Acknowledgements
 
-We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners.
+We would like to thank all contributors, especially those mentioned in the [Contributors list](https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners.
 
-Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
+Please see our [contributing guide](https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md) for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
 
 ## License
 
