@@ -21,7 +21,7 @@ Welcome! If you are involved in any aspect of establishing a Federated EGA node,
 - Evaluate your node implementation against maturity indicators
 - Compare requirements against other initiative Maturity Models
 
-## Learn about the FEGA Maturity Model
+## 1. Learn about the FEGA Maturity Model
 
 The Federated EGA Maturity Model is a mechanism to drive engagement and disengagement of nodes being part of the Federated EGA. The Maturity Model is divided into different domains, sub-domains, and maturity indicators. The domains are:
 - Governance, Strategy, and Sustainability
@@ -43,7 +43,7 @@ Each indicator outlines stages of maturity with a 5-level maturation scale:
 
 Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated **[website](https://inab.github.io/fega-mm/)** or on **[GitHub](https://github.com/inab/fega-mm)**.
   
-## Evaluate against the FEGA Maturity Model
+## 2. Evaluate against the FEGA Maturity Model
 
 Perform a self-assessment of your node against the Maturity Model (link TBD).
 
@@ -51,9 +51,13 @@ Explore aggregated results of the [first node self-assessments](https://docs.goo
 
 Hear about first-hand experiences [costing a FEGA node](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (audio recording, 1 March 2022) and read about [resource considerations for establishing and operating a federated human data node](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022).
 
-## Explore related maturity models
+## 3. Explore related maturity models
 
 1. Beyond One Million Genomes (B1MG) [Maturity Level Model (MLM)](https://zenodo.org/record/6587561#.YtB4huzMLt0) and [project website](https://b1mg-project.eu/)
 1. [ELIXIR Human Data Infrastructure Maturation Model](https://elixir-europe.github.io/human-data-maturity-model/)
 1. FAIRplus [Dataset Maturity Model](https://fairplus.github.io/Data-Maturity/) and [project website](https://faircookbook.elixir-europe.org/content/recipes/maturity.html)
 1. [European 1+ Million Genomes Initiative (1+MG)](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making.)
+
+## 4. What's next?
+
+Coming soon!
