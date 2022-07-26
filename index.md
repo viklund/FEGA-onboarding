@@ -14,7 +14,7 @@ Welcome to this collection of onboarding materials for establishing a Federated 
 
 If you are reading this, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
 
-These materials provide guidance for establishing a node in the Federated EGA Network. They are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
+These materials provide guidance for establishing a node in the Federated EGA Network. The materials are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## What is Federated EGA?
 
@@ -70,3 +70,8 @@ There is no time limit on establishing a Federated EGA Node. Onboarding will tak
 We would like to thank all contributors, especially those mentioned in the [Contributors list](CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners.
 
 Please see our [contributing guide](CONTRIBUTING.md) for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
+
+## License
+
+The content of the FEGA onboarding materials and website are licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
