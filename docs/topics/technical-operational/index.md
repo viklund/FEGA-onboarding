@@ -85,4 +85,4 @@ Engage in FEGA discussions happening with existing and interested FEGA nodes wit
 
 ## 4. What's next?
 
-**TODO: Define next step of journey**
+Coming soon!
