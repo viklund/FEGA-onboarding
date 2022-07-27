@@ -22,8 +22,8 @@ This document describes how you can contribute to the development of onboarding 
  - Anyone interested in improving onboarding materials for establishing a FEGA node
 
 **What *isn't* in this document?**
-- Training materials for using FEGA services (e.g. data discovery, data submission, data access). **TBD where this can be found**
-- Onboarding materials for establishing a FEGA node. This information can be found here **Link to README of this repo**.
+- Training materials for using FEGA services (e.g. data discovery, data submission, data access). (Coming soon!)
+- Onboarding materials for establishing a FEGA node. This information can be found [here](https://ega-archive.github.io/FEGA-onboarding/).
 
 ## Requesting changes to FEGA onboarding materials
 
@@ -35,13 +35,13 @@ To request changes to FEGA onboarding materials, follow the steps below:
     1. The requested update/new materials, including as much detail as possible
     1. Why the update/new material is being requested, including what the added value is
         
-1. **Submit a request** for the change. Anyone can request changes to the onboarding materials by creating a GH issue in this repository using this [GH template](https://github.com/repo/url/issues/new?template=request_change.md). Follow the template to include the information indicated in Step 1. Please add the "requested-change" label to the issue.
+1. **Submit a request** for the change. Anyone can request changes to the onboarding materials by creating a GH issue in this repository using this ["Request change" GH template](https://github.com/EGA-archive/FEGA-onboarding/issues/new/choose). Follow the template to include the information indicated in Step 1. Please add the "requested-change" label to the issue.
 
 1. **Track progress** of the request. The request will be reviewed by members of the FEGA community. Clarification may be requested. A proposed change will be made (via a GH pull request) to address the request and will be reviewed by the FEGA community. Once the change is accepted, the pull request will be merged and the related issue will be closed.
 
 ## Example request for changes to FEGA onboarding materials
 
-**TBD**
+Coming soon!
 
 ## Proposing changes to FEGA onboarding materials
 
@@ -51,15 +51,18 @@ To propose changes to FEGA onboarding materials, follow the steps below:
 
 1. **Create a new branch** in your local fork for the change(s) you would like to propose. We suggest one type of change per branch.
 
-1. **Make the changes** you would like to propose. See [this guide](TBD) for guidance and templates for creating new content.
+1. **Make the changes** you would like to propose.
+    1. Coming soon! Guidance and templates for creating new content.
 
-1. **Open a pull request** from your local branch to the main branch of this repo. Request reviewers. **TBD template for PR description**.
+1. **Open a pull request** from your local branch to the main branch of this repo. Request reviewers and add labels to the PR.
+    1. Coming soon! Template for creating a PR.
 
-1. **Track progress** of PR. Once the PR is accepted (**criteria TBD**), a repo maintainer will merge it.
+1. **Track progress** of PR. Once the PR is accepted, a repo maintainer will merge it.
+    1. Coming soon! PR acceptance criteria.
 
 ## Reporting bugs
 
-Report any bugs by creating an issue using this [GH template](https://github.com/repo/url/issues/new?template=bug_report.md). Please add the "bug" label to the issue. Example bugs that can be reported include:
+Report any bugs by creating an issue using the ["Bug report" GH template](https://github.com/EGA-archive/FEGA-onboarding/issues/new/choose). Please add the "bug" label to the issue. Example bugs that can be reported include:
 
 - Dead or broken links
 - Typos or grammar mistakes
