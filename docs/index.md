@@ -48,13 +48,13 @@ The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/comm
 
 <br/><br/>
 
-If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/governance-legal/). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
+If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/topics/governance-legal/). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/technical-operational/). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
+If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/topics/technical-operational/). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
 
-If you are involved in **data and metadata management** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/data-metadata-management/). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
+If you are involved in **data and metadata management** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](https://ega-archive.github.io/FEGA-onboarding/topics/data-metadata-management/). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
 
-If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](https://ega-archive.github.io/FEGA-onboarding/docs/topics/outreach-training/). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
+If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](https://ega-archive.github.io/FEGA-onboarding/topics/outreach-training/). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
 
 ## What does the journey look like?
 
