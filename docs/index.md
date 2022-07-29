@@ -64,7 +64,9 @@ One typical path for becoming a full Federated EGA member:
 
 <img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
-These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
+These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development. 
+
+You can also use the [Federated EGA Maturity Model](https://inab.github.io/fega-mm/) to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. Here you can [read more about the FEGA Maturity Model](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/).
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
