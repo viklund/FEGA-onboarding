@@ -29,7 +29,7 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
 | Hosts data | Hosts and/or owns data |
-| Shares metadata & allows global discovery | Shares metadata to allow global discovery |
+| Shares metadata and provides global discovery | Shares metadata to enable global discovery |
 | Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
