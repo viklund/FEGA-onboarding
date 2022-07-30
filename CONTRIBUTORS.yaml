@@ -17,6 +17,12 @@
 ---
 # Please add yourself below in alphabetical order
 
+jmenglund:
+    name: Markus Englund
+    email: markus.englund@nbis.se
+    orcid: 0000-0003-1688-7112
+    elixir_node: se
+
 mfreeberg:
     name: Mallory Freeberg
     email: mfreeberg@ebi.ac.uk
