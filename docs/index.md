@@ -4,7 +4,7 @@ title: FEGA Knowledge Base
 nav_order: 1
 ---
 
-<img src="./assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="125"  align="right" />
+<img src="./assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="150"  align="right" />
 
 # Establishing a Federated EGA Node
 
