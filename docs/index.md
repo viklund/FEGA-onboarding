@@ -39,22 +39,24 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 
 ## How do I start?
 
-The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the following open channels, join us!
+The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the open channels listed below. Welcome to join us!
 
 | Entry point | Information |
 | ----------- | ----------- |
 | ELIXIR FHD Mailing list | [join us here](https://elixir-europe.org/intranet/join-groups), select "Human Data" |
 | ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
 
-<br/><br/>
+<br/>
 
-If you are involved in **governance or legal aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/topics/governance-legal/). Typically this information is most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
+If you want to learn more about Federated EGA, we suggests that you start reading about the aspects that interest you the most. Choose from the following areas:
 
-If you are involved in **technical or operational aspects** of establishing a Federated EGA node, we suggest starting by reviewing information [here](https://ega-archive.github.io/FEGA-onboarding/topics/technical-operational/). Typically this information is most useful for software developers and engineers, bioinformaticians, and support officers.
+* **[Governance and legal aspects](topics/governance-legal/)** of establishing a Federated EGA node. Typically most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-If you are involved in **data and metadata management** for establishing a Federated EGA node, we suggest starting by reviewing the information [here](https://ega-archive.github.io/FEGA-onboarding/topics/data-metadata-management/). Typically this information is most useful for bioinformaticians, data stewards, and support officers.
+* **[Technical and operational aspects](topics/technical-operational/)** of establishing a Federated EGA node. Typically  most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-If you are involved in **outreach or training aspects** of establishing a Federated EGA node, we suggest starting by reviewing the information [here](https://ega-archive.github.io/FEGA-onboarding/topics/outreach-training/). Typically this information is most useful for data stewards, support officers, outreach/communications officers, and training organisers.
+* **[Data and metadata management](topics/data-metadata-management/)** for establishing a Federated EGA node. Typically most useful for bioinformaticians, data stewards, and support officers.
+
+* **[Outreach and training aspects](topics/outreach-training/)** of establishing a Federated EGA node. Typically most useful for data stewards, support officers, outreach/communications officers, and training organisers.
 
 ## What does the journey look like?
 
