@@ -10,13 +10,13 @@ If you are reading this, you are probably looking for information on how to join
 
 ## How do I start?
 
-We suggest you explore these materials on the public website here: https://ega-archive.github.io/FEGA-onboarding/
+We suggest you explore these materials on the public website here: **https://ega-archive.github.io/FEGA-onboarding**
 
 These materials provide guidance for establishing a node in the Federated EGA Network. The materials are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## Usage
 
-The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (**TBD**). The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd).
+The content of the material is developed collaboratively in shared Google documents and Markdown. A templating system ([Jekyll](http://jekyllrb.com/)) is used to format the onboarding materials and generate a website (https://ega-archive.github.io/FEGA-onboarding). The theme used is [Read-the-docs](https://docs.readthedocs.io/en/stable/index.html) and Github Pages version by [jekyll-theme-rtd](https://github.com/carlosperate/jekyll-theme-rtd).
 
 If you want to build the website locally, please have a look at this tutorial (**TBD**).
 

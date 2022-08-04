@@ -1,5 +1,5 @@
 ---
-excerpt: Short description TBD
+excerpt: Federated EGA Maturity Model
 layout: default
 title: Maturity Model
 nav_order: 1 
