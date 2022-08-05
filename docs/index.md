@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FEGA Knowledge Base
+title: Establishing a Federated EGA Node
 nav_order: 1
 ---
 

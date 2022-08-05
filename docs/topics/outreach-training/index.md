@@ -1,5 +1,5 @@
 ---
-excerpt: Short description TBD
+excerpt: Outreach, communications, and training aspects of establishing a Federated EGA node
 layout: default
 title: Outreach and Training
 nav_order: 3 
