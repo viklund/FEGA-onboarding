@@ -31,3 +31,9 @@ mfreeberg:
     orcid: 0000-0003-2949-3921
     elixir_node: embl
 
+m-casado:
+    name: Marcos Casado Barbero
+    email: mcasado@ebi.ac.uk
+    orcid: 0000-0002-7747-6256
+    elixir_node: embl
+

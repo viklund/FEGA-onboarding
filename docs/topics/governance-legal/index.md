@@ -1,5 +1,5 @@
 ---
-excerpt: Short description TBD
+excerpt: Federated EGA node governance, strategic planning, sustainability, and legal
 layout: default
 title: Governance and Legal
 nav_order: 5

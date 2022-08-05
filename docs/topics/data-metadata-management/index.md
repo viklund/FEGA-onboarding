@@ -1,5 +1,5 @@
 ---
-excerpt: Short description TBD
+excerpt: Best practices for data security, data access management, (meta)data standards, and data flow
 layout: default
 title: Data and Metadata Management
 nav_order: 3
