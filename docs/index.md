@@ -56,13 +56,11 @@ Now that you are connected to the Federated Human Data community, you can learn 
 
 ## What does the journey look like?
 
-Based on current experiences, governance and legal development of a node usually happens in parallel with technical and operational development. You may find your path differs slightly for a variety of reasons - that's ok!
-
-One typical path for becoming a full Federated EGA member:
+Displayed below are the steps a node must take to become a full member of the Federated EGA network. Based on current experiences, governance and legal development of a node (red, top-right path) usually happens in parallel with technical and operational development (yellow, bottom left path). Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement. You may find that your node's path differs slightly for a variety of reasons - that's ok!
 
 <img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
-These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development.
+The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
