@@ -55,10 +55,6 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 Inclusion in the Federated EGA is codified by signing of the [Federated EGA Collaboration Agreement](TBD) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
 
-Check out the pathway to becoming a Federated EGA node which outlines governance (as well as technical) steps to join the Federated EGA Network:
-
-<img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
-
 ### Data Processing Agreement (DPA)
 
 As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the [EGA Data Processing Agreement](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf). Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
@@ -67,11 +63,30 @@ As Central EGA is a Data Processor under GDPR definitions, all data submitters a
 
 Coming soon!
 
-## 3. Explore additional resources
+## 3. Complete steps to join Federated EGA
+
+The pathway to becoming a Federated EGA node includes governance/legal steps (red, top-right path) that must be completed:
+
+<img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+
+* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](https://ega-archive.github.io/FEGA-onboarding/#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
+* **Present use cases to ELIXIR FHD Community; Complete FEGA Use Case Survey**. Nodes are encouraged to present at an ELIXIR FHD Community Call on topics related to: 1) national use cases for managing sensitive human omics, phenotype, and clinical data; 2) current challenges for managing sensitive human data; 3) solutions/initiatives planned or in progress to meet these challenges; and 4) how Federated EGA fits in to the node's overall goals. Some examples of previous presentations from nodes:
+  * [Canada](https://drive.google.com/file/d/1qZ4YqlKwCuerIcjSfijUGhvaVQy8iMWf/view?usp=sharing)
+  * [Germany](https://docs.google.com/presentation/d/1mpTQhBt69reQz3Viju3EWPSi50sdfFy6rBO__gyznK8/edit?usp=sharing)
+  * [Norway](https://drive.google.com/file/d/1Zl6KrKefo2bxV6czTmct7XJYMSX2PP7j/view?usp=sharing)
+  * [Portugal](https://docs.google.com/presentation/d/1GC65umfBmeNH2T6eFGlJwsPe4JajBKIpirAtkEXj2Fc/edit?invite=CLT52HQ#slide=id.p1)
+  * [Romania](https://docs.google.com/presentation/d/1f9OcWKrOeYbkk-zLjhsAR6A13gH1_Ao9hEimXWO49vc/edit?usp=sharing)
+  * [Slovenia](https://docs.google.com/presentation/d/10ykS6GO5P4VprVIPiE95ze00qLrjv6BwsvWFsPom_CA/edit?usp=sharing)
+  * [Switzerland](https://drive.google.com/file/d/1QPqO_4-5utYt6G761KdPSMT7uOzMllxn/view?usp=sharing)
+  * [Sweden](https://drive.google.com/file/d/1PzcC--fCTJ75sPVjOfemxwN2PkWisGIZ/view?usp=sharing)
+* **Perform FEGA Maturity Model self-assessment**. This step can be accomplished by [evaluating your node against the Maturity Model](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/#2-evaluate-against-the-fega-maturity-model).
+* **Sign FEGA Legal Agreement**. Also called the "FEGA Collaboration Agreement", this is the final step to official join the Federated EGA. 
+
+## 4. Explore additional resources
 
 - More about [EU GDPR](https://gdpr-info.eu/).
 - Training materials developed by ELIXIR-Luxembourg on [data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD)
 
-## 4. What's next?
+## 5. What's next?
 
 Coming soon!
