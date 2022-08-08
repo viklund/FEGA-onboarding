@@ -34,7 +34,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 ### Software
 
-A minimal Federated EGA node can be set up on your local infrastructure using the [localEGA software (GitHub repository)](https://github.com/EGA-archive/LocalEGA) and the associated [Readthedocs](https://localega.readthedocs.io/) webpages.
+A minimal Federated EGA node can be set up on your local infrastructure using the [localEGA software (GitHub repository)](https://github.com/EGA-archive/LocalEGA) and the associated [Readthedocs](https://localega.readthedocs.io/) webpages. It is not required to use the local EGA software suite, but it is a great option compared to developing your own Federated EGA node software from scratch.
 
 More information about the local EGA software and its implementation can be found in this report for [ELIXIR-CONVERGE: Implementation and documentation to create an operational EGA node (D7.2)](https://zenodo.org/record/4893191) (report, 2 June 2021).
 
@@ -44,9 +44,14 @@ It is useful to establish SOPs for common node operational tasks to enable consi
 
 Standard interactions between Central EGA and Federated EGA node Helpdesk staff have been developed into a set of SOPs. Follow these SOPs below.
 
-#### Shared FEGA<->CEGA SOPs
+#### Shared FEGA &harr; CEGA SOPs
+
+The following SOPs must be followed as part of current FEGA &harr; CEGA node interactions during the submission process:
+
 - [Federated EGA Request from submitter to submit to FEGA node](https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing)
 - [Federated EGA Metadata Check and Release Protocol](https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing)
+
+[**Here**](topics/data-metadata-management/#3-understand-data-definitions-and-flow) you can find more information about data/metadata flow within the Federated EGA network.
 
 Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing processes and internal processes. Explore some examples of these SOPs below (and organised **[here](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)**). Please note these are example SOPs and will need to be adapted to how your node operates!
 
@@ -78,10 +83,11 @@ Engage in FEGA discussions happening with existing and interested FEGA nodes wit
 
 ## 3. Evaluate your implementation
 
-- Assess the technical and operational maturation of your node by doing a self-assessment against the [Federated EGA Maturity Model](https://inab.github.io/fega-mm/)
-- Determine compliance of services with FEGA specifications by performing [compliance tests](TBD)
-- Evaluate ability to scale services by performing [stress tests](TBD)
-- Demonstrate the full set of FEGA node services for users by planning your [FEGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
+- Understand the domains in which a node matures using the [Federated EGA Maturity Model](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/)
+- Assess the technical and operational maturation of your node by doing a **self-assessment against the Federated EGA Maturity Model** (Coming soon!)
+- Demonstrate the full set of node services for users by planning your [Federated EGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
+- Determine compliance of services with FEGA specifications by performing **compliance tests** (Coming soon!)
+- Evaluate ability to scale services by performing **stress tests** (Coming soon!)
 
 ## 4. What's next?
 
