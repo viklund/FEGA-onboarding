@@ -1,6 +1,6 @@
 ---
-name: Request change
-about: Create a request for changes to the FEGA onboarding materials
+name: "\U0001F680 Feature request"
+about: Create a request for changes.
 labels: requested-change
 ---
 

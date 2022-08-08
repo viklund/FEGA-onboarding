@@ -1,5 +1,5 @@
 ---
-excerpt: Short description TBD
+excerpt: Technical infrastructure, testing, software/hardware, SOPs, Helpdesk, and team capacity building
 layout: default
 title: Technical and Operational
 nav_order: 4
