@@ -35,14 +35,14 @@ Genetic data generated in a healthcare context is subject to more stringent info
 
 ### Use cases
 
-Understand more about the current [use cases and architecture for the Federated EGA](https://zenodo.org/record/4893063) as reported by the inaugural Federated EGA nodes.
+Understand more about the current [use cases and architecture for the Federated EGA](https://zenodo.org/record/4893063). Here you can read about the requirements and national use cases of early engaged Federated EGA Nodes which aim to be addressed by joining the Federated EGA. The report also describes how specific use cases can be supported by Federated EGA, for example by a governance structure made up of permanent committees and ad hoc working groups, the use of global and community standards, and guidelines for how data/metadata can be shared within the network. 
 
 ### Organisation
 
-Here is described the [Federated EGA Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf). Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsiblities of each type of node.
+Here is described the [Federated EGA Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf). Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
 
 Federated EGA is governed by two permanent committees:
-- The **Federated EGA Strategic Committee** [(Terms of Reference)](https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf) provides direction and strategic planning for the Federated EGA. The Committee receives input from the EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
+- The **Federated EGA Strategic Committee** [(Terms of Reference)](https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf) provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
 - The **Federated EGA Operations Committee** [(Terms of Reference)](https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf) reviews operational performance and coordinates technical implementation roadmaps of the Federated EGA. The Committee receives advice from and provides operational reporting to the Federated EGA Strategic Committee.
 
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
