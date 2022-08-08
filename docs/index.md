@@ -29,7 +29,7 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
 | Hosts data | Hosts and/or owns data |
-| Shares metadata & allows global discovery | Shares metadata to allow global discovery |
+| Shares metadata and provides global discovery | Shares metadata to enable global discovery |
 | Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
@@ -61,6 +61,8 @@ Displayed below are the steps a node must take to become a full member of the Fe
 <img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
+
+You can also use the [Federated EGA Maturity Model](https://inab.github.io/fega-mm/) to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. [**Here**](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/) you can read more about the FEGA Maturity Model.
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
