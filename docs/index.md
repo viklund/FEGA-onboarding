@@ -39,16 +39,12 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 
 ## How do I start?
 
-The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the open channels listed below. Welcome to join us!
+The [ELIXIR Federated Human Data (FHD) Community](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are currently sent through the ELIXIR FHD open channels. Welcome to join us!
 
-| Entry point | Information |
-| ----------- | ----------- |
-| ELIXIR FHD Mailing list | [join us here](https://elixir-europe.org/intranet/join-groups), select "Human Data" |
-| ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
+1. **Join the [ELIXIR FHD Mailing List](https://elixir-europe.org/intranet/join-groups)** (select "Human Data") to hear about the latest updates and events from the FHD community.
+1. **Attend the [ELIXIR FHD Community Calls](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit)** to engage with the FEGA community. Meetings are the 1st Tuesday of the month @ 2pm CEST.
 
-<br/>
-
-If you want to learn more about Federated EGA, we suggests that you start reading about the aspects that interest you the most. Choose from the following areas:
+Now that you are connected to the Federated Human Data community, you can learn more about Federated EGA specifically. **Read about the areas that interest you the most** (in no particular order):
 
 * **[Governance and legal aspects](topics/governance-legal/)** of establishing a Federated EGA node. Typically most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
