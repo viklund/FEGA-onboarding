@@ -39,16 +39,12 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 
 ## How do I start?
 
-The [ELIXIR Federated Human Data Community (FHD)](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are sent through the open channels listed below. Welcome to join us!
+The [ELIXIR Federated Human Data (FHD) Community](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are currently sent through the ELIXIR FHD open channels. Welcome to join us!
 
-| Entry point | Information |
-| ----------- | ----------- |
-| ELIXIR FHD Mailing list | [join us here](https://elixir-europe.org/intranet/join-groups), select "Human Data" |
-| ELIXIR FHD Community Calls | [Agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit), 1st Tuesday of the month, 2pm CEST|
+1. **Join the [ELIXIR FHD Mailing List](https://elixir-europe.org/intranet/join-groups)** (select "Human Data") to hear about the latest updates and events from the FHD community.
+1. **Attend the [ELIXIR FHD Community Calls](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit)** to engage with the FEGA community. Meetings are the 1st Tuesday of the month @ 2pm CEST.
 
-<br/>
-
-If you want to learn more about Federated EGA, we suggests that you start reading about the aspects that interest you the most. Choose from the following areas:
+Now that you are connected to the Federated Human Data community, you can learn more about Federated EGA specifically. **Read about the areas that interest you the most** (in no particular order):
 
 * **[Governance and legal aspects](topics/governance-legal/)** of establishing a Federated EGA node. Typically most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
@@ -60,13 +56,11 @@ If you want to learn more about Federated EGA, we suggests that you start readin
 
 ## What does the journey look like?
 
-Based on current experiences, governance and legal development of a node usually happens in parallel with technical and operational development. You may find your path differs slightly for a variety of reasons - that's ok!
-
-One typical path for becoming a full Federated EGA member:
+Displayed below are the steps a node must take to become a full member of the Federated EGA network. Based on current experiences, governance and legal development of a node (red, top-right path) usually happens in parallel with technical and operational development (yellow, bottom left path). Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement. You may find that your node's path differs slightly for a variety of reasons - that's ok!
 
 <img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
-These materials guide you through onboarding information from the experiences of other nodes. Take what you find useful to apply to your own node development. 
+The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
 You can also use the [Federated EGA Maturity Model](https://inab.github.io/fega-mm/) to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. [**Here**](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/) you can read more about the FEGA Maturity Model.
 
