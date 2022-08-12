@@ -68,9 +68,9 @@ There is no time limit on establishing a Federated EGA Node. Onboarding will tak
 
 ## Acknowledgements
 
-We would like to thank all contributors, especially those mentioned in the [Contributors list](https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners.
+We would like to thank all contributors, especially those mentioned in the <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTORS.yaml" target="_blank">Contributors list</a>, the Federated EGA community for their support, and our funding partners.
 
-Please see our [contributing guide](https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md) for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
+Please see our <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md" target="_blank">contributing guide</a> for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
 
 ## License
 
