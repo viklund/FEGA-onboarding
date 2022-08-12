@@ -62,8 +62,6 @@ Displayed below are the steps a node must take to become a full member of the Fe
 
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
-<a href="url" target="_blank">text</a>
-
 You can also use the <a href="https://inab.github.io/fega-mm/" target="_blank">Federated EGA Maturity Model</a> to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. **<a href="https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/" target="_blank">Here</a>** you can read more about the FEGA Maturity Model.
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
@@ -76,5 +74,5 @@ Please see our [contributing guide](https://github.com/EGA-archive/FEGA-onboardi
 
 ## License
 
-The content of the FEGA onboarding materials and website are licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+The content of the FEGA onboarding materials and website are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution Share Alike 4.0 International License</a>.
 
