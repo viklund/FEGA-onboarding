@@ -69,7 +69,7 @@ The pathway to becoming a Federated EGA node includes governance/legal steps (re
 
 <img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
-* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](/#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
+* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](../../#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
 * **Present use cases to ELIXIR FHD Community; Complete FEGA Use Case Survey**. Nodes are encouraged to present at an ELIXIR FHD Community Call on topics related to: 1) national use cases for managing sensitive human omics, phenotype, and clinical data; 2) current challenges for managing sensitive human data; 3) solutions/initiatives planned or in progress to meet these challenges; and 4) how Federated EGA fits in to the node's overall goals. Some examples of previous presentations from nodes:
   * <a href="https://drive.google.com/file/d/1qZ4YqlKwCuerIcjSfijUGhvaVQy8iMWf/view?usp=sharing" target="_blank">Canada</a>
   * <a href="https://docs.google.com/presentation/d/1mpTQhBt69reQz3Viju3EWPSi50sdfFy6rBO__gyznK8/edit?usp=sharing" target="_blank">Germany</a>
@@ -79,7 +79,7 @@ The pathway to becoming a Federated EGA node includes governance/legal steps (re
   * <a href="https://docs.google.com/presentation/d/10ykS6GO5P4VprVIPiE95ze00qLrjv6BwsvWFsPom_CA/edit?usp=sharing" target="_blank">Slovenia</a>
   * <a href="https://drive.google.com/file/d/1QPqO_4-5utYt6G761KdPSMT7uOzMllxn/view?usp=sharing" target="_blank">Switzerland</a>
   * <a href="https://drive.google.com/file/d/1PzcC--fCTJ75sPVjOfemxwN2PkWisGIZ/view?usp=sharing" target="_blank">Sweden</a>
-* **Perform FEGA Maturity Model self-assessment**. This step can be accomplished by [evaluating your node against the Maturity Model](topics/maturity-model/#2-evaluate-against-the-fega-maturity-model).
+* **Perform FEGA Maturity Model self-assessment**. This step can be accomplished by [evaluating your node against the Maturity Model](../maturity-model/#2-evaluate-against-the-fega-maturity-model).
 * **Sign FEGA Legal Agreement**. Also called the "FEGA Collaboration Agreement", this is the final step to official join the Federated EGA. 
 
 ## 4. Explore additional resources
