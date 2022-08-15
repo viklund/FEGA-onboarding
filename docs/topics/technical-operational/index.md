@@ -34,9 +34,9 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 ### Software
 
-A minimal Federated EGA node can be set up on your local infrastructure using the [localEGA software (GitHub repository)](https://github.com/EGA-archive/LocalEGA) and the associated [Readthedocs](https://localega.readthedocs.io/) webpages. It is not required to use the local EGA software suite, but it is a great option compared to developing your own Federated EGA node software from scratch.
+A minimal Federated EGA node can be set up on your local infrastructure using the <a href="https://github.com/EGA-archive/LocalEGA" target="_blank">localEGA software (GitHub repository)</a> and the associated <a href="https://localega.readthedocs.io/" target="_blank">Readthedocs</a> webpages. It is not required to use the local EGA software suite, but it is a great option compared to developing your own Federated EGA node software from scratch.
 
-More information about the local EGA software and its implementation can be found in this report for [ELIXIR-CONVERGE: Implementation and documentation to create an operational EGA node (D7.2)](https://zenodo.org/record/4893191) (report, 2 June 2021).
+More information about the local EGA software and its implementation can be found in this report on <a href="https://zenodo.org/record/4893191" target="_blank">implementation and documentation to create an operational EGA node</a> (2 June 2021).
 
 ### Standard Operating Procedures (SOPs)
 
