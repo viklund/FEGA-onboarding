@@ -68,7 +68,7 @@ Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing 
 
 Check-out current Federated EGA node implementations from some of the first established nodes:
 - <a href="https://research.csc.fi/-/fega" target="_blank">Finnish FEGA Node</a>
-- <a href="https://www.ghga.de/" target="_blank">German Human Genome-phenome Archive (GHGA)]</a>
+- <a href="https://www.ghga.de/" target="_blank">German Human Genome-phenome Archive (GHGA)</a>
 - <a href="https://ega.elixir.no/" target="_blank">Federated EGA Norway</a>
 - <a href="https://fega-test.bsc.es/docs/" target="_blank">Spanish FEGA (es-FEGA)</a>
 - <a href="https://nbis.se/infrastructure/sensitive-data-archive.html" target="_blank">Swedish Sensitive Data Archive</a>
