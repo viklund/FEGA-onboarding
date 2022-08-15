@@ -19,7 +19,7 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 **By exploring these materials, you will be able to:**
 - Define data security and access management best practices
 - Understand the EGA metadata standard and it's minimal requirements
-- Identify data models specific to a domain (e.g. COVID-19) and apply them when needed
+- Identify data models specific to a domain (*e.g.* COVID-19) and apply them when needed
 - Comprehend the (meta)data flow within the Federated EGA Network
 
 ## 1. Learn about data security best practices
@@ -30,7 +30,7 @@ Summary of best practices recommended for Federated EGA nodes:
 
 | Item | Description | Examples/Templates |
 |:---|:---|:---|
-| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, CEGA, key contacts, and institutional/organisational policies. | Coming soon! |
+| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, Central EGA, key contacts, and institutional/organisational policies. | Coming soon! |
 | Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | Coming soon! |
 
 <br/><br/>
@@ -55,13 +55,15 @@ Central EGA largely adhere to <a href="https://ega-archive.org/ga4gh" target="_b
 Recommended file formats for:
 - Sequencing data (unaligned or aligned reads): <a href="http://samtools.github.io/hts-specs/CRAMv3.pdf" target="_blank">CRAM</a>, <a href="https://samtools.github.io/hts-specs/SAMv1.pdf" target="_blank">BAM</a>
 - Variant data: <a href="https://samtools.github.io/hts-specs/VCFv4.2.pdf" target="_blank">VCF</a>
-- Phenotype data: <a href="https://doi.org/10.1101/2021.11.27.21266944" target="_blank">Phenopackets</a>
+- Phenotype/clinical data: <a href="https://doi.org/10.1101/2021.11.27.21266944" target="_blank">Phenopackets</a>
 
 ### Metadata standards
 
 The following resources represent EGA and community guidelines for submitted metadata:
 - <a href="https://ega-archive.org/submission/sequence/programmatic_submissions/prepare_xml" target="_blank">EGA metadata model</a>
-- Ontologies: <a href="https://www.ebi.ac.uk/efo/" target="_blank">Experimental Factor Ontology</a>, <a href="https://github.com/EBISPOT/DUO" target="_blank">Data Use Ontology</a>
+- Ontologies: 
+  - <a href="https://www.ebi.ac.uk/efo/" target="_blank">Experimental Factor Ontology</a>
+  - <a href="https://github.com/EBISPOT/DUO" target="_blank">Data Use Ontology</a>
 - Community-specific standards:
   - <a href="https://zenodo.org/record/4893222" target="_blank">COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)</a>
   - <a href="https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528" target="_blank">COVID-19 Host Genetics Initiative data dictionary</a>
