@@ -30,8 +30,8 @@ Summary of best practices recommended for Federated EGA nodes:
 
 | Item | Description | Examples/Templates |
 |:---|:---|:---|
-| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, CEGA, key contacts, and institutional/organisational policies. | TBD |
-| Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | TBD |
+| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, CEGA, key contacts, and institutional/organisational policies. | Coming soon! |
+| Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | Coming soon! |
 
 <br/><br/>
 
