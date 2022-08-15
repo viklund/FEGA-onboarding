@@ -35,15 +35,15 @@ Genetic data generated in a healthcare context is subject to more stringent info
 
 ### Use cases
 
-Understand more about the current [use cases and architecture for the Federated EGA](https://zenodo.org/record/4893063). Here you can read about the requirements and national use cases of early engaged Federated EGA Nodes which aim to be addressed by joining the Federated EGA. The report also describes how specific use cases can be supported by Federated EGA, for example by a governance structure made up of permanent committees and ad hoc working groups, the use of global and community standards, and guidelines for how data/metadata can be shared within the network. 
+Understand more about the current <a href="https://zenodo.org/record/4893063" target="_blank">use cases and architecture for Federated EGA</a>. Here you can read about the requirements and national use cases of early engaged Federated EGA Nodes which aim to be addressed by joining the Federated EGA. The report also describes how specific use cases can be supported by Federated EGA, for example by a governance structure made up of permanent committees and ad hoc working groups, the use of global and community standards, and guidelines for how data/metadata can be shared within the network. 
 
 ### Organisation
 
-Here is described the [Federated EGA Structure and Organization](https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf). Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
+Here is described the <a href="https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a>. Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
 
 Federated EGA is governed by two permanent committees:
-- The **Federated EGA Strategic Committee** [(Terms of Reference)](https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf) provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
-- The **Federated EGA Operations Committee** [(Terms of Reference)](https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf) reviews operational performance and coordinates technical implementation roadmaps of the Federated EGA. The Committee receives advice from and provides operational reporting to the Federated EGA Strategic Committee.
+- The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
+- The **Federated EGA Operations Committee** <a href="https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> reviews operational performance and coordinates technical implementation roadmaps of the Federated EGA. The Committee receives advice from and provides operational reporting to the Federated EGA Strategic Committee.
 
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
 
@@ -53,11 +53,11 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 ### FEGA Collaboration Agreement
 
-Inclusion in the Federated EGA is codified by signing of the [Federated EGA Collaboration Agreement](TBD) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
+Inclusion in the Federated EGA is codified by signing of the **Federated EGA Collaboration Agreement** (link coming soon!) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
 
 ### Data Processing Agreement (DPA)
 
-As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the [EGA Data Processing Agreement](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf). Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
 ### Data Protection and Impact Analysis (DPIA)
 
@@ -69,23 +69,23 @@ The pathway to becoming a Federated EGA node includes governance/legal steps (re
 
 <img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
-* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](https://ega-archive.github.io/FEGA-onboarding/#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
+* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](../../#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
 * **Present use cases to ELIXIR FHD Community; Complete FEGA Use Case Survey**. Nodes are encouraged to present at an ELIXIR FHD Community Call on topics related to: 1) national use cases for managing sensitive human omics, phenotype, and clinical data; 2) current challenges for managing sensitive human data; 3) solutions/initiatives planned or in progress to meet these challenges; and 4) how Federated EGA fits in to the node's overall goals. Some examples of previous presentations from nodes:
-  * [Canada](https://drive.google.com/file/d/1qZ4YqlKwCuerIcjSfijUGhvaVQy8iMWf/view?usp=sharing)
-  * [Germany](https://docs.google.com/presentation/d/1mpTQhBt69reQz3Viju3EWPSi50sdfFy6rBO__gyznK8/edit?usp=sharing)
-  * [Norway](https://drive.google.com/file/d/1Zl6KrKefo2bxV6czTmct7XJYMSX2PP7j/view?usp=sharing)
-  * [Portugal](https://docs.google.com/presentation/d/1GC65umfBmeNH2T6eFGlJwsPe4JajBKIpirAtkEXj2Fc/edit?invite=CLT52HQ#slide=id.p1)
-  * [Romania](https://docs.google.com/presentation/d/1f9OcWKrOeYbkk-zLjhsAR6A13gH1_Ao9hEimXWO49vc/edit?usp=sharing)
-  * [Slovenia](https://docs.google.com/presentation/d/10ykS6GO5P4VprVIPiE95ze00qLrjv6BwsvWFsPom_CA/edit?usp=sharing)
-  * [Switzerland](https://drive.google.com/file/d/1QPqO_4-5utYt6G761KdPSMT7uOzMllxn/view?usp=sharing)
-  * [Sweden](https://drive.google.com/file/d/1PzcC--fCTJ75sPVjOfemxwN2PkWisGIZ/view?usp=sharing)
-* **Perform FEGA Maturity Model self-assessment**. This step can be accomplished by [evaluating your node against the Maturity Model](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/#2-evaluate-against-the-fega-maturity-model).
+  * <a href="https://drive.google.com/file/d/1qZ4YqlKwCuerIcjSfijUGhvaVQy8iMWf/view?usp=sharing" target="_blank">Canada</a>
+  * <a href="https://docs.google.com/presentation/d/1mpTQhBt69reQz3Viju3EWPSi50sdfFy6rBO__gyznK8/edit?usp=sharing" target="_blank">Germany</a>
+  * <a href="https://drive.google.com/file/d/1Zl6KrKefo2bxV6czTmct7XJYMSX2PP7j/view?usp=sharing" target="_blank">Norway</a>
+  * <a href="https://docs.google.com/presentation/d/1GC65umfBmeNH2T6eFGlJwsPe4JajBKIpirAtkEXj2Fc/edit?invite=CLT52HQ#slide=id.p1" target="_blank">Portugal</a>
+  * <a href="https://docs.google.com/presentation/d/1f9OcWKrOeYbkk-zLjhsAR6A13gH1_Ao9hEimXWO49vc/edit?usp=sharing" target="_blank">Romania</a>
+  * <a href="https://docs.google.com/presentation/d/10ykS6GO5P4VprVIPiE95ze00qLrjv6BwsvWFsPom_CA/edit?usp=sharing" target="_blank">Slovenia</a>
+  * <a href="https://drive.google.com/file/d/1QPqO_4-5utYt6G761KdPSMT7uOzMllxn/view?usp=sharing" target="_blank">Switzerland</a>
+  * <a href="https://drive.google.com/file/d/1PzcC--fCTJ75sPVjOfemxwN2PkWisGIZ/view?usp=sharing" target="_blank">Sweden</a>
+* **Perform FEGA Maturity Model self-assessment**. This step can be accomplished by [evaluating your node against the Maturity Model](../maturity-model/#2-evaluate-against-the-fega-maturity-model).
 * **Sign FEGA Legal Agreement**. Also called the "FEGA Collaboration Agreement", this is the final step to official join the Federated EGA. 
 
 ## 4. Explore additional resources
 
-- More about [EU GDPR](https://gdpr-info.eu/).
-- Training materials developed by ELIXIR-Luxembourg on [data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD)
+- More about <a href="https://gdpr-info.eu/" target="_blank">EU GDPR</a>
+- Training materials developed by ELIXIR-Luxembourg on <a href="https://zenodo.org/record/5078280#.YrxoEOxKjjD" target="_blank">data protection in biomedical research</a>
 
 ## 5. What's next?
 

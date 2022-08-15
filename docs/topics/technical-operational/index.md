@@ -28,19 +28,19 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 ### Standards
 
-- The [FEGA Node Operations Guidelines](https://ega-archive.org/files/EGA-Node-Operations-v2.pdf) document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
-- Federated EGA was established on the principle of implementing global, community standards, including those developed as part of [GA4GH](https://www.ga4gh.org/) and [ELIXIR](https://elixir-europe.org/).
-- [Overview of local EGA services and architecture](https://www.youtube.com/watch?v=k9R8W3V3ugU) (video, 19 June 2020)
+- The <a href="https://ega-archive.org/files/EGA-Node-Operations-v2.pdf" target="_blank">FEGA Node Operations Guidelines</a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+- Federated EGA was established on the principle of implementing global, community standards, including those developed as part of <a href="https://www.ga4gh.org/" target="_blank">GA4GH</a> and <a href="https://elixir-europe.org/" target="_blank">ELIXIR</a>.
+- <a href="https://www.youtube.com/watch?v=k9R8W3V3ugU" target="_blank">Overview of local EGA services and architecture</a> (19 June 2020)
 
 ### Software
 
-A minimal Federated EGA node can be set up on your local infrastructure using the [localEGA software (GitHub repository)](https://github.com/EGA-archive/LocalEGA) and the associated [Readthedocs](https://localega.readthedocs.io/) webpages. It is not required to use the local EGA software suite, but it is a great option compared to developing your own Federated EGA node software from scratch.
+A minimal Federated EGA node can be set up on your local infrastructure using the <a href="https://github.com/EGA-archive/LocalEGA" target="_blank">localEGA software (GitHub repository)</a> and the associated <a href="https://localega.readthedocs.io/" target="_blank">Readthedocs</a> webpages. It is not required to use the local EGA software suite, but it is a great option compared to developing your own Federated EGA node software from scratch.
 
-More information about the local EGA software and its implementation can be found in this report for [ELIXIR-CONVERGE: Implementation and documentation to create an operational EGA node (D7.2)](https://zenodo.org/record/4893191) (report, 2 June 2021).
+More information about the local EGA software and its implementation can be found in this report on <a href="https://zenodo.org/record/4893191" target="_blank">implementation and documentation to create an operational EGA node</a> (2 June 2021).
 
 ### Standard Operating Procedures (SOPs)
 
-It is useful to establish SOPs for common node operational tasks to enable consistent service delivery and streamline internal processes. Use this **[template to develop SOPs for your own node](https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg/edit?usp=sharing)**.
+It is useful to establish SOPs for common node operational tasks to enable consistent service delivery and streamline internal processes. Use this <a href="https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg/edit?usp=sharing" target="_blank">template to develop SOPs for your own node</a>.
 
 Standard interactions between Central EGA and Federated EGA node Helpdesk staff have been developed into a set of SOPs. Follow these SOPs below.
 
@@ -48,46 +48,44 @@ Standard interactions between Central EGA and Federated EGA node Helpdesk staff 
 
 The following SOPs must be followed as part of current FEGA &harr; CEGA node interactions during the submission process:
 
-- [Federated EGA Request from submitter to submit to FEGA node](https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing)
-- [Federated EGA Metadata Check and Release Protocol](https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing)
+- <a href="https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing" target="_blank">Federated EGA Request from submitter to submit to FEGA node</a>
+- <a href="https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing" target="_blank">Federated EGA Metadata Check and Release Protocol</a>
 
-[**Here**](topics/data-metadata-management/#3-understand-data-definitions-and-flow) you can find more information about data/metadata flow within the Federated EGA network.
-
-Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing processes and internal processes. Explore some examples of these SOPs below (and organised **[here](https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing)**). Please note these are example SOPs and will need to be adapted to how your node operates!
+Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing processes and internal processes. Explore some examples of these SOPs below or organised in this <a href="https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing" target="_blank">shared EGA Helpdesk SOP Google Drive</a>. Please note these are example SOPs and will need to be adapted to how your node operates!
 
 #### Example User-facing Process SOPs
-- [Handling Incomplete Submissions](https://docs.google.com/document/d/1gze9UW3yBN2TmFNFS3NFsHxPrdWNx-A74lFsxj8Xs_Q/edit?usp=sharing)
-- [Handling Unresponsive DACs](https://docs.google.com/document/d/16_5G97hUUyU2-vjHAD-Yb7XNRCE6A_PQWRWERqnDSFY/edit?usp=sharing)
-- [Users Sharing Credentials](https://docs.google.com/document/d/1NHNTmhfguAgCKyLuf1tQAdYWLAeCFBUeFYgONdd17bY/edit?usp=sharing)
-- [Reporting Unreasonable Users](https://docs.google.com/document/d/1DC_HJaePbaDomNe-99fdAyZ1d4CodBfqU2uavCcpL3g/edit?usp=sharing)
-- [Changing User Institution](https://docs.google.com/document/d/1geswkX9Com_Y4bnbLEtTKd0XXG6ByuADlCsLHppf074/edit?usp=sharing)
+- <a href="https://docs.google.com/document/d/1gze9UW3yBN2TmFNFS3NFsHxPrdWNx-A74lFsxj8Xs_Q/edit?usp=sharing" target="_blank">Handling Incomplete Submissions</a>
+- <a href="https://docs.google.com/document/d/16_5G97hUUyU2-vjHAD-Yb7XNRCE6A_PQWRWERqnDSFY/edit?usp=sharing" target="_blank">Handling Unresponsive DACs</a>
+- <a href="https://docs.google.com/document/d/1NHNTmhfguAgCKyLuf1tQAdYWLAeCFBUeFYgONdd17bY/edit?usp=sharing" target="_blank">Users Sharing Credentials</a>
+- <a href="https://docs.google.com/document/d/1DC_HJaePbaDomNe-99fdAyZ1d4CodBfqU2uavCcpL3g/edit?usp=sharing" target="_blank">Reporting Unreasonable Users</a>
+- <a href="https://docs.google.com/document/d/1geswkX9Com_Y4bnbLEtTKd0XXG6ByuADlCsLHppf074/edit?usp=sharing" target="_blank">Changing User Institution</a>
 
 #### Example Internal Node Process SOPs
-- [Helpdesk Ticket Management](https://docs.google.com/document/d/1qIURMTn6-cDv9ZxVsVkJSK5SUcK7Wq-jxbFuD_6gT34/edit?usp=sharing)
-- [Helpdesk Ticket Assignment](https://docs.google.com/document/d/10GWK-iw12JF_JX0KL2aUTjsZ8G2liw2A-t_PV5Y81FY/edit?usp=sharing)
+- <a href="https://docs.google.com/document/d/1qIURMTn6-cDv9ZxVsVkJSK5SUcK7Wq-jxbFuD_6gT34/edit?usp=sharing" target="_blank">Helpdesk Ticket Management</a>
+- <a href="https://docs.google.com/document/d/10GWK-iw12JF_JX0KL2aUTjsZ8G2liw2A-t_PV5Y81FY/edit?usp=sharing" target="_blank">Helpdesk Ticket Assignment</a>
 
 ## 2. Learn from current node implementations
 
 Check-out current Federated EGA node implementations from some of the first established nodes:
-- [Finnish FEGA Node](https://research.csc.fi/-/fega)
-- [German Human Genome-phenome Archive (GHGA)](https://www.ghga.de/)
-- [Federated EGA Norway](https://ega.elixir.no/)
-- [Spanish FEGA (es-FEGA)](https://fega-test.bsc.es/docs/)
-- [Swedish Sensitive Data Archive](https://nbis.se/infrastructure/sensitive-data-archive.html)
+- <a href="https://research.csc.fi/-/fega" target="_blank">Finnish FEGA Node</a>
+- <a href="https://www.ghga.de/" target="_blank">German Human Genome-phenome Archive (GHGA)</a>
+- <a href="https://ega.elixir.no/" target="_blank">Federated EGA Norway</a>
+- <a href="https://fega-test.bsc.es/docs/" target="_blank">Spanish FEGA (es-FEGA)</a>
+- <a href="https://nbis.se/infrastructure/sensitive-data-archive.html" target="_blank">Swedish Sensitive Data Archive</a>
 
 Hear more details about node implementations:
-- [Norway, Sweden, and Finland FEGA node architecture and implementation](https://www.youtube.com/watch?v=eEoKmMKGCc4) (video, 19 June 2020)
-- [Further details on the Norwegian node](https://www.youtube.com/watch?v=DSd_UJyqoGU) (video, 19 June 2020)
+- <a href="https://www.youtube.com/watch?v=eEoKmMKGCc4" target="_blank">Norway, Sweden, and Finland FEGA node architecture and implementations</a> (19 June 2020)
+- <a href="https://www.youtube.com/watch?v=DSd_UJyqoGU" target="_blank">Further details on the Norwegian node</a> (19 June 2020)
 
-Engage in FEGA discussions happening with existing and interested FEGA nodes within the ELIXIR Federated Human Data Community by joining the [ELIXIR Federated Human Data Community mailing list](https://elixir-europe.org/intranet/join-groups) (select "Human Data") and attending the [ELIXIR Federated Human Data Community Calls](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit).
+Engage in FEGA discussions happening with existing and interested FEGA nodes within the ELIXIR Federated Human Data (FHD) Community by joining the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") and attending the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a>.
 
 ## 3. Evaluate your implementation
 
-- Understand the domains in which a node matures using the [Federated EGA Maturity Model](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/)
-- Assess the technical and operational maturation of your node by doing a **self-assessment against the Federated EGA Maturity Model** (Coming soon!)
-- Demonstrate the full set of node services for users by planning your [Federated EGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
-- Determine compliance of services with FEGA specifications by performing **compliance tests** (Coming soon!)
-- Evaluate ability to scale services by performing **stress tests** (Coming soon!)
+- Understand the domains in which a node matures using the [Federated EGA Maturity Model](../maturity-model/)
+- Assess the technical and operational maturation of your node by doing a self-assessment against the Federated EGA Maturity Model (Coming soon!)
+- Demonstrate the full set of node services for users by planning your <a href="https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing" target="_blank">Federated EGA end-to-end demonstrator</a>
+- Determine compliance of services with FEGA specifications by performing compliance tests (Coming soon!)
+- Evaluate ability to scale services by performing stress tests (Coming soon!)
 
 ## 4. What's next?
 

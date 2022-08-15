@@ -39,10 +39,10 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 
 ## How do I start?
 
-The [ELIXIR Federated Human Data (FHD) Community](https://elixir-europe.org/communities/human-data) provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are currently sent through the ELIXIR FHD open channels. Welcome to join us!
+The <a href="https://elixir-europe.org/communities/human-data" target="_blank">ELIXIR Federated Human Data (FHD) Community</a> provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are currently sent through the ELIXIR FHD open channels. Welcome to join us!
 
-1. **Join the [ELIXIR FHD Mailing List](https://elixir-europe.org/intranet/join-groups)** (select "Human Data") to hear about the latest updates and events from the FHD community.
-1. **Attend the [ELIXIR FHD Community Calls](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit)** to engage with the FEGA community. Meetings are the 1st Tuesday of the month @ 2pm CEST.
+1. **Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a>** (select "Human Data") to hear about the latest updates and events from the FHD community.
+1. **Attend the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a>** to engage with the FEGA community. Meetings are the 1st Tuesday of the month @ 2pm CEST.
 
 Now that you are connected to the Federated Human Data community, you can learn more about Federated EGA specifically. **Read about the areas that interest you the most** (in no particular order):
 
@@ -62,17 +62,17 @@ Displayed below are the steps a node must take to become a full member of the Fe
 
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
-You can also use the [Federated EGA Maturity Model](https://inab.github.io/fega-mm/) to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. [**Here**](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/) you can read more about the FEGA Maturity Model.
+You can use the <a href="https://inab.github.io/fega-mm/" target="_blank">Federated EGA Maturity Model</a> to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. You can [read more about how to interpret and use the FEGA Maturity Model](topics/maturity-model/).
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
 ## Acknowledgements
 
-We would like to thank all contributors, especially those mentioned in the [Contributors list](https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTORS.yaml), the Federated EGA community for their support, and our funding partners.
+We would like to thank all contributors, especially those mentioned in the <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTORS.yaml" target="_blank">Contributors list</a>, the Federated EGA community for their support, and our funding partners.
 
-Please see our [contributing guide](https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md) for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
+Please see our <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md" target="_blank">contributing guide</a> for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
 
 ## License
 
-The content of the FEGA onboarding materials and website are licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+The content of the FEGA onboarding materials and website are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution Share Alike 4.0 International License</a>.
 

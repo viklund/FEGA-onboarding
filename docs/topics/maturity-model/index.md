@@ -43,22 +43,24 @@ Each indicator outlines stages of maturity with a 5-level maturation scale:
 
 <br/><br/>
 
-Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated **[website](https://inab.github.io/fega-mm/)** or on **[GitHub](https://github.com/inab/fega-mm)**.
+Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated <a href="https://inab.github.io/fega-mm/" target="_blank">website</a> or on <a href="https://github.com/inab/fega-mm" target="_blank">GitHub</a>.
   
 ## 2. Evaluate against the FEGA Maturity Model
 
-Perform a self-assessment of your node against the Maturity Model (link TBD).
+Perform a self-assessment of your node against the Maturity Model (link coming soon!).
 
-Explore aggregated results of the [first node self-assessments](https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86) (slides, 8 June 2022).
+Explore aggregated results of the <a href="https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86" target="_blank">first node self-assessments</a>.
 
-Hear about first-hand experiences [costing a FEGA node](https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing) (audio recording, 1 March 2022) and read about [resource considerations for establishing and operating a federated human data node](https://doi.org/10.7490/f1000research.1118967.1) (poster, 1 June 2022).
+Hear about first-hand experiences <a href="https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing" target="_blank">costing a FEGA node</a>.
+
+Read about <a href="https://doi.org/10.7490/f1000research.1118967.1" target="_blank">resource considerations for establishing and operating a federated human data node</a>.
 
 ## 3. Explore related maturity models
 
-1. Beyond One Million Genomes (B1MG) [Maturity Level Model (MLM)](https://zenodo.org/record/6587561#.YtB4huzMLt0) and [project website](https://b1mg-project.eu/)
-1. [ELIXIR Human Data Infrastructure Maturation Model](https://elixir-europe.github.io/human-data-maturity-model/)
-1. FAIRplus [Dataset Maturity Model](https://fairplus.github.io/Data-Maturity/) and [project website](https://faircookbook.elixir-europe.org/content/recipes/maturity.html)
-1. [European 1+ Million Genomes Initiative (1+MG)](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making.)
+1. Beyond One Million Genomes (B1MG) <a href="https://zenodo.org/record/6587561#.YtB4huzMLt0" target="_blank">Maturity Level Model (MLM)</a> and <a href="https://b1mg-project.eu/" target="_blank">project website</a>
+1. <a href="https://elixir-europe.github.io/human-data-maturity-model/" target="_blank">ELIXIR Human Data Infrastructure Maturation Model</a>
+1. FAIRplus <a href="https://fairplus.github.io/Data-Maturity/" target="_blank">Dataset Maturity Model</a> and <a href="https://faircookbook.elixir-europe.org/content/recipes/maturity.html" target="_blank">project website</a>
+1. <a href="https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making." target="_blank">European 1+ Million Genomes Initiative (1+MG)</a>
 
 ## 4. What's next?
 
