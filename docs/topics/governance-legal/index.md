@@ -69,7 +69,7 @@ The pathway to becoming a Federated EGA node includes governance/legal steps (re
 
 <img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 
-* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](https://ega-archive.github.io/FEGA-onboarding/#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
+* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
 * **Present use cases to ELIXIR FHD Community; Complete FEGA Use Case Survey**. Nodes are encouraged to present at an ELIXIR FHD Community Call on topics related to: 1) national use cases for managing sensitive human omics, phenotype, and clinical data; 2) current challenges for managing sensitive human data; 3) solutions/initiatives planned or in progress to meet these challenges; and 4) how Federated EGA fits in to the node's overall goals. Some examples of previous presentations from nodes:
   * [Canada](https://drive.google.com/file/d/1qZ4YqlKwCuerIcjSfijUGhvaVQy8iMWf/view?usp=sharing)
   * [Germany](https://docs.google.com/presentation/d/1mpTQhBt69reQz3Viju3EWPSi50sdfFy6rBO__gyznK8/edit?usp=sharing)
