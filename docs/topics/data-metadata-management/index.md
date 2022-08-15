@@ -37,7 +37,7 @@ Summary of best practices recommended for Federated EGA nodes:
 
 ## 2. Explore implemented standards
 
-Central EGA largely adhere to [GA4GH standards](https://ega-archive.org/ga4gh). Specific standards already implemented are summarised below:
+Central EGA largely adhere to <a href="https://ega-archive.org/ga4gh" target="_blank">GA4GH standards</a>. Specific standards already implemented are summarised below:
 
 | Standard | Purpose | Specification Version | Supported Version | Implementation | Publication/Preprint |
 |:---|:---|:---|:---|:---|:---|
@@ -53,9 +53,9 @@ Central EGA largely adhere to [GA4GH standards](https://ega-archive.org/ga4gh). 
 ### Data file standards
 
 Recommended file formats for:
-- Sequencing data (unaligned or aligned reads): [CRAM](http://samtools.github.io/hts-specs/CRAMv3.pdf), [BAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
-- Variant data: [VCF](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
-- Phenotype data: [Phenopackets](https://doi.org/10.1101/2021.11.27.21266944)
+- Sequencing data (unaligned or aligned reads): <a href="http://samtools.github.io/hts-specs/CRAMv3.pdf" target="_blank">CRAM</a>, <a href="https://samtools.github.io/hts-specs/SAMv1.pdf" target="_blank">BAM</a>
+- Variant data: <a href="https://samtools.github.io/hts-specs/VCFv4.2.pdf" target="_blank">VCF</a>
+- Phenotype data: <a href="https://doi.org/10.1101/2021.11.27.21266944" target="_blank">Phenopackets</a>
 
 ### Metadata standards
 
