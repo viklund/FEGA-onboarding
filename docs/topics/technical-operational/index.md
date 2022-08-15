@@ -67,15 +67,15 @@ Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing 
 ## 2. Learn from current node implementations
 
 Check-out current Federated EGA node implementations from some of the first established nodes:
-- [Finnish FEGA Node](https://research.csc.fi/-/fega)
-- [German Human Genome-phenome Archive (GHGA)](https://www.ghga.de/)
-- [Federated EGA Norway](https://ega.elixir.no/)
-- [Spanish FEGA (es-FEGA)](https://fega-test.bsc.es/docs/)
-- [Swedish Sensitive Data Archive](https://nbis.se/infrastructure/sensitive-data-archive.html)
+- <a href="https://research.csc.fi/-/fega" target="_blank">Finnish FEGA Node</a>
+- <a href="https://www.ghga.de/" target="_blank">German Human Genome-phenome Archive (GHGA)]</a>
+- <a href="https://ega.elixir.no/" target="_blank">Federated EGA Norway</a>
+- <a href="https://fega-test.bsc.es/docs/" target="_blank">Spanish FEGA (es-FEGA)</a>
+- <a href="https://nbis.se/infrastructure/sensitive-data-archive.html" target="_blank">Swedish Sensitive Data Archive</a>
 
 Hear more details about node implementations:
-- [Norway, Sweden, and Finland FEGA node architecture and implementation](https://www.youtube.com/watch?v=eEoKmMKGCc4) (video, 19 June 2020)
-- [Further details on the Norwegian node](https://www.youtube.com/watch?v=DSd_UJyqoGU) (video, 19 June 2020)
+- <a href="https://www.youtube.com/watch?v=eEoKmMKGCc4" target="_blank">Norway, Sweden, and Finland FEGA node architecture and implementations</a> (19 June 2020)
+- <a href="https://www.youtube.com/watch?v=DSd_UJyqoGU" target="_blank">Further details on the Norwegian node</a> (19 June 2020)
 
 Engage in FEGA discussions happening with existing and interested FEGA nodes within the ELIXIR Federated Human Data Community by joining the [ELIXIR Federated Human Data Community mailing list](https://elixir-europe.org/intranet/join-groups) (select "Human Data") and attending the [ELIXIR Federated Human Data Community Calls](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit).
 
