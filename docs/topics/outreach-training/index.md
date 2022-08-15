@@ -24,18 +24,18 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 ## 1. Engage communication channels
 
 ### Internal channels
-- The [ELIXIR Federated Human Data Community](https://elixir-europe.org/communities/human-data) is the entry-point for a Node interested in joining the FEGA Network: 
-  - Join the ELIXIR Federated Human Data Community mailing list ([here](https://elixir-europe.org/intranet/join-groups), select "Human Data")
-  - Attend the ELIXIR Federated Human Data Community Calls ([agenda](https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit))
+- The <a href="https://elixir-europe.org/communities/human-data" target="_blank">ELIXIR Federated Human Data (FHD) Community</a> is the main entry-point for a Node interested in joining the FEGA Network:
+  - Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") to hear about the latest updates and events from the FHD community.
+  - Attend the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a> to engage with the FEGA community.
 - Federated EGA has mailing lists for various communications: 
   - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA
   - FEGA Operations Committee mailing list (invitation-only): For reviewing operational performance and coordinating technical roadmaps
 
 ### External channels
-- Follow the [EGA Twitter account](https://twitter.com/EGAarchive)
+- Follow the <a href="https://twitter.com/EGAarchive" target="_blank">EGA Twitter account</a>
 - Mention Federated EGA by using:
    - the hashtag #FederatedEGA
-   - a combination of hashatg and mention #Federated @EGAarchive
+   - a combination of hashtag and mention #Federated @EGAarchive
 
 ## 2. Incorporate communication materials
 - FEGA logo (svg format) <img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
