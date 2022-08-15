@@ -79,7 +79,7 @@ As defined in the Federated EGA Collaboration Agreement, and in alignment with d
 - **Personal Metadata**. Information that describes or annotates research data to facilitate its interpretation or to describe the relationship between data elements that has the potential to identify a data subject. For example, demographic or ancestry information that can be used to identify individuals. Personal metadata are not made available through a public metadata catalogue and are not shared between EGA Central and the Node.
 - **Research Data**. Omics or other forms of genetic (according to Art. 4 Nr. 13 GDPR) and health data (according to Art. 4 Nr. 15 GDPR) that are used for scientific research purposes. This is considered to be special category personal data under Art. 9(1) in conjunction with Art. 4 Nr. 1 GDPR.
 
-Here you can view how the different types of [data flow within the Federated EGA network](https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126).
+Here you can view how the different types of <a href="https://docs.google.com/presentation/d/1IrU5jPJpGQ7n-WH-7WvJZjjH03ww9LfFMLK1kTBeAco/edit#slide=id.gcf2c0c3039_0_126" target="_blank">data flow within the Federated EGA network</a>.
 
 ## 4. What's next?
 
