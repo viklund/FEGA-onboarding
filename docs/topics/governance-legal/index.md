@@ -53,11 +53,11 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 ### FEGA Collaboration Agreement
 
-Inclusion in the Federated EGA is codified by signing of the [Federated EGA Collaboration Agreement](TBD) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
+Inclusion in the Federated EGA is codified by signing of the **Federated EGA Collaboration Agreement** (link coming soon!) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
 
 ### Data Processing Agreement (DPA)
 
-As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the [EGA Data Processing Agreement](https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf). Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
 ### Data Protection and Impact Analysis (DPIA)
 
@@ -84,8 +84,8 @@ The pathway to becoming a Federated EGA node includes governance/legal steps (re
 
 ## 4. Explore additional resources
 
-- More about [EU GDPR](https://gdpr-info.eu/).
-- Training materials developed by ELIXIR-Luxembourg on [data protection in biomedical research](https://zenodo.org/record/5078280#.YrxoEOxKjjD)
+- More about <a href="https://gdpr-info.eu/" target="_blank">EU GDPR</a>
+- Training materials developed by ELIXIR-Luxembourg on <a href="https://zenodo.org/record/5078280#.YrxoEOxKjjD" target="_blank">data protection in biomedical research</a>
 
 ## 5. What's next?
 
