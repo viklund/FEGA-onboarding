@@ -38,7 +38,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
    - a combination of hashtag and mention #Federated @EGAarchive
 
 ## 2. Incorporate communication materials
-- FEGA logo (svg format) <img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
+- FEGA logo (svg format) <img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="200"  align="right" />
 <br/><br/>
 
 ## 3. Follow news and updates
