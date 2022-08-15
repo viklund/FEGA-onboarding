@@ -81,11 +81,11 @@ Engage in FEGA discussions happening with existing and interested FEGA nodes wit
 
 ## 3. Evaluate your implementation
 
-- Understand the domains in which a node matures using the [Federated EGA Maturity Model](https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/)
-- Assess the technical and operational maturation of your node by doing a **self-assessment against the Federated EGA Maturity Model** (Coming soon!)
-- Demonstrate the full set of node services for users by planning your [Federated EGA end-to-end demonstrator](https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing)
-- Determine compliance of services with FEGA specifications by performing **compliance tests** (Coming soon!)
-- Evaluate ability to scale services by performing **stress tests** (Coming soon!)
+- Understand the domains in which a node matures using the [Federated EGA Maturity Model](../maturity-model/)
+- Assess the technical and operational maturation of your node by doing a self-assessment against the Federated EGA Maturity Model (Coming soon!)
+- Demonstrate the full set of node services for users by planning your <a href="https://docs.google.com/document/d/1m7WDC112e73Kw79baZcsRsQOkAAGKtp_AiqJRhrgtUk/edit?usp=sharing" target="_blank">Federated EGA end-to-end demonstrator</a>
+- Determine compliance of services with FEGA specifications by performing compliance tests (Coming soon!)
+- Evaluate ability to scale services by performing stress tests (Coming soon!)
 
 ## 4. What's next?
 
