@@ -13,6 +13,9 @@
 <!--- Include details of your testing environment, tests ran to see how -->
 <!--- your change affects other areas of the code, etc. -->
 
+## What should reviewers focus on?
+<!--- Provide suggestions for what someone should check to help with the review. -->
+
 ## Types of changes
 <!--- What types of changes does your PR introduce? Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
