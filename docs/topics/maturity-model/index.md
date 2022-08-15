@@ -57,10 +57,10 @@ Read about <a href="https://doi.org/10.7490/f1000research.1118967.1" target="_bl
 
 ## 3. Explore related maturity models
 
-1. Beyond One Million Genomes (B1MG) [Maturity Level Model (MLM)](https://zenodo.org/record/6587561#.YtB4huzMLt0) and [project website](https://b1mg-project.eu/)
-1. [ELIXIR Human Data Infrastructure Maturation Model](https://elixir-europe.github.io/human-data-maturity-model/)
-1. FAIRplus [Dataset Maturity Model](https://fairplus.github.io/Data-Maturity/) and [project website](https://faircookbook.elixir-europe.org/content/recipes/maturity.html)
-1. [European 1+ Million Genomes Initiative (1+MG)](https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making.)
+1. Beyond One Million Genomes (B1MG) <a href="https://zenodo.org/record/6587561#.YtB4huzMLt0" target="_blank">Maturity Level Model (MLM)</a> and <a href="https://b1mg-project.eu/" target="_blank">project website</a>
+1. <a href="https://elixir-europe.github.io/human-data-maturity-model/" target="_blank">ELIXIR Human Data Infrastructure Maturation Model</a>
+1. FAIRplus <a href="https://fairplus.github.io/Data-Maturity/" target="_blank">Dataset Maturity Model</a> and <a href="https://faircookbook.elixir-europe.org/content/recipes/maturity.html" target="_blank">project website</a>
+1. <a href="https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes#:~:text=The%20'1%2B%20Million%20Genomes',healthcare%20and%20health%20policy%20making." target="_blank">European 1+ Million Genomes Initiative (1+MG)</a>
 
 ## 4. What's next?
 
