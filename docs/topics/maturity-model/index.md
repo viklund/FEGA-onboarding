@@ -43,7 +43,7 @@ Each indicator outlines stages of maturity with a 5-level maturation scale:
 
 <br/><br/>
 
-Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated **[website](https://inab.github.io/fega-mm/)** or on **[GitHub](https://github.com/inab/fega-mm)**.
+Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated <a href="https://inab.github.io/fega-mm/" target="_blank">website</a> or on <a href="https://github.com/inab/fega-mm" target="_blank">GitHub</a>.
   
 ## 2. Evaluate against the FEGA Maturity Model
 
