@@ -20,7 +20,7 @@ body:
     id: to-reproduce
     attributes:
       label: To reproduce
-      description: Please explain in detail what lead you to observe the bug to help us reproduce it while we try to fix it.
+      description: Please explain in detail what led you to observe the bug to help us reproduce it while we try to fix it.
       placeholder:  |
           e.g. Steps to reproduce:
                   1. Go to the maturity model documentation (https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/)
