@@ -1,0 +1,52 @@
+name: Report a bug
+description: \U0001F41B Form to report bugs of the FEGA onboarding repository
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form serves as a template for **reporting bugs of the FEGA onboarding repository** (e.g. wrong URLs, typos, missing information, etc.). For issues exclusively concerning Central EGA (e.g. download client, [ega-archive](https://ega-archive.org/) website, etc.) please contact ``helpdesk [at] ega-archive.org``.
+        Thank you for your support to the Federated European Genome-phenome Archive (FEGA)!
+  - type: input
+    id: bug-title
+    attributes:
+      label: Bug summary
+      description: Please provide a summary or title for the bug. 
+      placeholder: e.g. Typo in the maturity model documentation
+    validations:
+      required: true
+  - type: textarea
+    id: to-reproduce
+    attributes:
+      label: To reproduce
+      description: Please explain in detail what lead you to observe the bug to help us reproduce it while we try to fix it.
+      placeholder:  |
+          e.g. Steps to reproduce:
+                  1. Go to the maturity model documentation (https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/)
+                  2. Observe a typo in the ``Learn about the FEGA Maturity Model`` section
+    validations:
+      required: true
+  - type: textarea
+    id: observed-behaviour
+    attributes:
+      label: Observed behaviour
+      description: Please explain the behaviour you observed and considered a bug. Include any error messages or warnings you observed.
+      placeholder: e.g. The description says "Gobbernance"
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected behaviour
+      description: Please explain what you expected to happen if there was no bug.
+      placeholder: e.g. The description says "Governance"
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Use this section to add any context, including error messages or screenshots (if applicable), that could aid in the fixing of the bug.
+    validations:
+      required: false
