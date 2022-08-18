@@ -24,7 +24,7 @@ body:
       placeholder:  |
           e.g. Steps to reproduce:
                   1. Go to the maturity model documentation (https://ega-archive.github.io/FEGA-onboarding/topics/maturity-model/)
-                  2. Observe a typo in the ``Learn about the FEGA Maturity Model`` section
+                  2. Observe a typo in the first paragraph of the ``Learn about the FEGA Maturity Model`` section
     validations:
       required: true
   - type: textarea
