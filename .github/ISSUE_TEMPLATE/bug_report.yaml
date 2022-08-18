@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This form serves as a template for **reporting bugs of the FEGA onboarding repository** (e.g. wrong URLs, typos, missing information, etc.). For issues exclusively concerning Central EGA (e.g. download client, [ega-archive](https://ega-archive.org/) website, etc.) please contact ``helpdesk [at] ega-archive.org``.
+        This form is a template for **reporting bugs in the FEGA onboarding materials** (e.g. wrong URLs, typos, broken formatting). For issues concerning Central EGA (e.g. download client, [ega-archive](https://ega-archive.org/) website) please contact ``helpdesk [at] ega-archive.org``.
         Thank you for your support to the Federated European Genome-phenome Archive (FEGA)!
   - type: input
     id: bug-title
