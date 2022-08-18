@@ -17,6 +17,7 @@ body:
       multiple: true
       options:
         - Content modification
+        - Content addition
         - Website appearance
         - GitHub repository
         - Other/unsure
