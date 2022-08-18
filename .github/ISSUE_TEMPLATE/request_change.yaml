@@ -37,7 +37,7 @@ body:
     attributes:
       label: Description of the change
       description: Please describe the change you are requesting. Make it as detailed as possible. 
-      placeholder: e.g. A new section should be added at...
+      placeholder: e.g. I would like to request a new section be added at...
     validations:
       required: true
     
