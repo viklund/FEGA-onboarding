@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This form serves as a template to **create a request for changes**. It can be used, for example, to add a new section or functionality to the [FEGA-onboarding webspage](https://ega-archive.github.io/FEGA-onboarding/).
+        This form is a template to **create a request for changes**. It can be used, for example, to add a new section or functionality to the [FEGA onboarding webpages](https://ega-archive.github.io/FEGA-onboarding/).
         Thank you for contributing to the Federated European Genome-phenome Archive (FEGA)!
 
   - type: dropdown
