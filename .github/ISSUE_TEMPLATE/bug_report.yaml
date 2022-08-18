@@ -1,5 +1,5 @@
-name: 🐛 Report a bug
-description: Form to report bugs in the FEGA onboarding materials
+name: Report a bug
+description: 🐛 Form to report bugs in the FEGA onboarding materials
 title: "[BUG]: "
 labels: ["bug"]
 body:
