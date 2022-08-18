@@ -1,5 +1,5 @@
 name: Report a bug
-description: \U0001F41B Form to report bugs in the FEGA onboarding materials
+description: 🐛 Form to report bugs in the FEGA onboarding materials
 title: "[BUG]: "
 labels: ["bug"]
 body:
