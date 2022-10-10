@@ -53,7 +53,7 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 ### FEGA Collaboration Agreement
 
-Inclusion in the Federated EGA is codified by signing of the **Federated EGA Collaboration Agreement** (link coming soon!) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node.
+Inclusion in the Federated EGA is codified by signing of the <a href="https://drive.google.com/file/d/1QAKABRB5ZxAJlQSwFHaJ3e6TdtwZaCYs/view" target="_blank">**Federated EGA Collaboration Agreement**</a> (CA) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA node. Nodes are welcome to make a copy of this current version of the CA to start its review with their legal teams and understand the responsibilities of joining FEGA. Nevertheless, this version (the one with a watermark) shall not be signed: the official version needs to be obtained from FEGA prior signing through its official channels. 
 
 ### Data Processing Agreement (DPA)
 
