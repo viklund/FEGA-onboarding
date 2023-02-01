@@ -47,7 +47,7 @@ Explore details of the indicators and levels of the FEGA Maturity Model on a ded
   
 ## 2. Evaluate against the FEGA Maturity Model
 
-Perform a self-assessment of your node against the Maturity Model (link coming soon!).
+Perform a self-assessment of your node against the <a href="https://docs.google.com/spreadsheets/d/1WgvwwANlRh_OPAy8RY53xfzopFMwstG08zcg3LOTyZQ/copy" target="_blank">FEGA Maturity Model</a>. Use this link to **create a copy** of the Federated EGA Maturity Model Self-Evaluation Google spreadsheet which is private to you and whoever you share it with. This tool is meant to be an evolving evaluation of your node's progress in each of the FEGA Maturity Model domains and sub-domains. Additionally, it allows you to provide feedback on the model and tool if you choose to share it.
 
 Explore aggregated results of the <a href="https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86" target="_blank">first node self-assessments</a>.
 
