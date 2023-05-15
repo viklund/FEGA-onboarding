@@ -60,7 +60,7 @@ Recommended file formats for:
 ### Metadata standards
 
 The following resources represent EGA and community guidelines for submitted metadata:
-- <a href="https://ega-archive.org/submission/sequence/programmatic_submissions/prepare_xml" target="_blank">EGA metadata model</a>
+- <a href="https://web3.ega-archive.org/metadata/validation/metadata-schema/" target="_blank">EGA metadata model</a>
 - Ontologies: 
   - <a href="https://www.ebi.ac.uk/efo/" target="_blank">Experimental Factor Ontology</a>
   - <a href="https://github.com/EBISPOT/DUO" target="_blank">Data Use Ontology</a>
