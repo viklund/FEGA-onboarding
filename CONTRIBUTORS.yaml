@@ -42,3 +42,17 @@ silviabah:
     email: sbahena@ebi.ac.uk
     orcid: 0000-0002-2734-0449
     elixir_node: embl
+    
+amycurwin:
+    name: Amy Curwin
+    email: amy.curwin@crg.eu
+    orcid: 0000-0003-1086-2483
+    elixir_node: Spain (EGA)
+    
+ biodata-pt:
+    name: Jorge dos Santos Oliveira
+    email: jorge.oliveira@tecnico.ulisboa.pt
+    orcid: 0000-0001-6425-2176
+    elixir_node: portugal
+
+
