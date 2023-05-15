@@ -22,7 +22,13 @@ ahornos:
     email: ahornos@bsc.es
     orcid: 0000-0002-7330-668X
     elixir_node: es
-    
+
+ainajene:
+    name: Aina Jené Cortada
+    email: aina.jene@crg.eu
+    orcid: 0000-0001-7721-7097
+    elixir_node: es
+
 alex-dem:
     name: Alexandros Dimopoulos
     email: dimopoulos@fleming.gr
