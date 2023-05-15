@@ -25,16 +25,16 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 
 ### Internal channels
 - The <a href="https://elixir-europe.org/communities/human-data" target="_blank">ELIXIR Federated Human Data (FHD) Community</a> is the main entry-point for a Node interested in joining the FEGA Network:
-  - Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") to hear about the latest updates and events from the FHD community.
+  - Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") to hear about the latest updates and events from the FHD community. You will need to be to log in into the ELIXIR intranet.
   - Attend the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a> to engage with the FEGA community.
 - Federated EGA has mailing lists for various communications: 
-  - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA
-  - FEGA Operations Committee mailing list (invitation-only): For reviewing operational performance and coordinating technical roadmaps
+  - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA.
+  - FEGA Operations Committee mailing list (invitation-only): For reviewing operational performance and coordinating technical roadmaps.
 
 ### External channels
 - Follow the <a href="https://twitter.com/EGAarchive" target="_blank">EGA Twitter account</a>
 - Mention Federated EGA by using:
-   - the hashtag #FederatedEGA
+   - the hashtag <a href="https://twitter.com/search?q=%23FederatedEGA&src=typed_query&f=live" target="_blank">#FederatedEGA</a>
    - a combination of hashtag and mention #Federated @EGAarchive
 
 ## 2. Incorporate communication materials
