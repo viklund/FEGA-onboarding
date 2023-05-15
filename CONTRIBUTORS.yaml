@@ -17,11 +17,59 @@
 ---
 # Please add yourself below in alphabetical order
 
+ahornos:
+    name: Albert Hornos Vidal
+    email: ahornos@bsc.es
+    orcid: 0000-0002-7330-668X
+    elixir_node: es
+    
+alex-dem:
+    name: Alexandros Dimopoulos
+    email: dimopoulos@fleming.gr
+    orcid: 0000-0002-4602-2040
+    elixir_node: gr
+
+amycurwin:
+    name: Amy Curwin
+    email: amy.curwin@crg.eu
+    orcid: 0000-0003-1086-2483
+    elixir_node: es
+
+biodata-pt:
+    name: Jorge dos Santos Oliveira
+    email: jorge.oliveira@tecnico.ulisboa.pt
+    orcid: 0000-0001-6425-2176
+    elixir_node: pt
+
+blankdots:
+    name: Stefan Negru
+    email: stefan.negru@csc.fi
+    orcid: 0000-0002-6544-5022
+    elixir_node: fi
+
+d-salgado:
+    name: David Salgado
+    email: david.salgado@france-bioinformatique.fr
+    orcid: 0000-0002-5905-3591
+    elixir_node: fr
+
 jmenglund:
     name: Markus Englund
     email: markus.englund@nbis.se
     orcid: 0000-0003-1688-7112
     elixir_node: se
+
+lauportell:
+    name: Laura Portell Silva
+    email: laura.portell@bsc.es
+    orcid: 0000-0003-0390-3208
+    elixir_node: es
+
+lilachic:
+    name: Liisa Lado-Villar
+    email: liisa.lado-villar@csc.fi
+    orcid:
+    elixir_node: fi
 
 mfreeberg:
     name: Mallory Freeberg
@@ -42,17 +90,3 @@ silviabah:
     email: sbahena@ebi.ac.uk
     orcid: 0000-0002-2734-0449
     elixir_node: embl
-    
-amycurwin:
-    name: Amy Curwin
-    email: amy.curwin@crg.eu
-    orcid: 0000-0003-1086-2483
-    elixir_node: Spain (EGA)
-    
- biodata-pt:
-    name: Jorge dos Santos Oliveira
-    email: jorge.oliveira@tecnico.ulisboa.pt
-    orcid: 0000-0001-6425-2176
-    elixir_node: portugal
-
-
