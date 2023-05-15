@@ -7,6 +7,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Specific to this theme
+baseurl: /FEGA-onboarding
 site_author: Federated EGA Knowledge base team
 repo_url: ''
 edit_on_github: false
