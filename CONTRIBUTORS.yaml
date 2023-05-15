@@ -42,3 +42,33 @@ silviabah:
     email: sbahena@ebi.ac.uk
     orcid: 0000-0002-2734-0449
     elixir_node: embl
+
+ahornos:
+    name: Albert Hornos Vidal
+    email: ahornos@bsc.es
+    orcid: 0000-0002-7330-668X
+    elixir_node: es
+
+blankdots:
+    name: Stefan Negru
+    email:
+    orcid:
+    elixir_node: fi
+
+alex-dem:
+    name: Alexandros Dimopoulos
+    email: dimopoulos@fleming.gr
+    orcid: 0000-0002-4602-2040
+    elixir_node: gr
+
+d-salgado:
+    name: David Salgado
+    email: david.salgado@france-bioinformatique.fr
+    orcid: 0000-0002-5905-3591
+    elixir_node: fr
+
+lilachic:
+    name: Liisa Lado-Villar
+    email: liisa.lado-villar@csc.fi
+    orcid:
+    elixir_node: fi
