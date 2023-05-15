@@ -62,8 +62,9 @@ Recommended file formats for:
 The following resources represent EGA and community guidelines for submitted metadata:
 - <a href="https://ega-archive.org/submission/sequence/programmatic_submissions/prepare_xml" target="_blank">EGA metadata model</a>
 - Ontologies: 
-  - <a href="https://www.ebi.ac.uk/efo/" target="_blank">Experimental Factor Ontology</a>
-  - <a href="https://github.com/EBISPOT/DUO" target="_blank">Data Use Ontology</a>
+  - <a href="https://www.ebi.ac.uk/efo/" target="_blank">Experimental Factor Ontology</a>&nbsp<a href="https://github.com/EBISPOT/efo" target="_blank">GitHub link</a>
+  - <a href="https://www.ga4gh.org/genomic-data-toolkit/data-use-ontology-duo/" target="_blank">Data Use Ontology</a>&nbsp<a href="https://github.com/EBISPOT/DUO" target="_blank">GitHub link</a>
+  - <a href="https://www.ebi.ac.uk/ols/" target="_blank">Ontology Lookup Service</a>&nbsp<a href="https://github.com/EBISPOT/ols4" target="_blank">GitHub link</a>
 - Community-specific standards:
   - <a href="https://zenodo.org/record/4893222" target="_blank">COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)</a>
   - <a href="https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528" target="_blank">COVID-19 Host Genetics Initiative data dictionary</a>
