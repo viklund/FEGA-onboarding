@@ -12,13 +12,13 @@ Welcome to this collection of onboarding materials for establishing a Federated 
 
 ## What am I doing here?
 
-If you are reading this, you are probably looking for information on how to join the Federated EGA Network. Great! There is a lot of information here for you.
+If you are reading this, you are probably looking for information on how to join the Federated EGA. Great! There is a lot of information here for you.
 
-These materials provide guidance for establishing a node in the Federated EGA Network. The materials are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
+These materials provide guidance for establishing a node within the Federated EGA. The materials are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
-## What is Federated EGA ecosystem?
+## What is Federated EGA (FEGA)?
 
-**The Federated EGA ecosystem is the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
+**The Federated EGA is an ecosystem or network of Federated EGA Nodes visible as the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
 
 Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
 
@@ -46,19 +46,19 @@ The <a href="https://elixir-europe.org/communities/human-data" target="_blank">E
 
 Now that you are connected to the Federated Human Data community, you can learn more about Federated EGA specifically. **Read about the areas that interest you the most** (in no particular order):
 
-* **[Governance and legal aspects](topics/governance-legal/)** of establishing a Federated EGA node. Typically most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
+* **[Governance and legal aspects](topics/governance-legal/)** of establishing a Federated EGA Node. Typically most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-* **[Technical and operational aspects](topics/technical-operational/)** of establishing a Federated EGA node. Typically  most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
+* **[Technical and operational aspects](topics/technical-operational/)** of establishing a Federated EGA Node. Typically  most useful for data protection officers, data stewards, policy makers, and strategic decision makers.
 
-* **[Data and metadata management](topics/data-metadata-management/)** for establishing a Federated EGA node. Typically most useful for bioinformaticians, data stewards, and support officers.
+* **[Data and metadata management](topics/data-metadata-management/)** for establishing a Federated EGA Node. Typically most useful for bioinformaticians, data stewards, and support officers.
 
-* **[Outreach and training aspects](topics/outreach-training/)** of establishing a Federated EGA node. Typically most useful for data stewards, support officers, outreach/communications officers, and training organisers.
+* **[Outreach and training aspects](topics/outreach-training/)** of establishing a Federated EGA Node. Typically most useful for data stewards, support officers, outreach/communications officers, and training organisers.
 
 ## What does the journey look like?
 
-Displayed below are the steps a node must take to become a full member of the Federated EGA network. Based on current experiences, governance and legal development of a node (red, top-right path) usually happens in parallel with technical and operational development (yellow, bottom left path). Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement. You may find that your node's path differs slightly for a variety of reasons - that's ok!
+Displayed below are the steps a node must take to become a full member of the Federated EGA. Based on current experiences, governance and legal development of a node (red, top-right path) usually happens in parallel with technical and operational development (yellow, bottom left path). Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement. You may find that your node's path differs slightly for a variety of reasons - that's ok!
 
-<img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Federated EGA." width="1200"  align="right" />
 
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
