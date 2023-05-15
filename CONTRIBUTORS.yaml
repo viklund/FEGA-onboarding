@@ -17,11 +17,41 @@
 ---
 # Please add yourself below in alphabetical order
 
+ahornos:
+    name: Albert Hornos Vidal
+    email: ahornos@bsc.es
+    orcid: 0000-0002-7330-668X
+    elixir_node: es
+    
+alex-dem:
+    name: Alexandros Dimopoulos
+    email: dimopoulos@fleming.gr
+    orcid: 0000-0002-4602-2040
+    elixir_node: gr
+
+blankdots:
+    name: Stefan Negru
+    email: stefan.negru@csc.fi
+    orcid: 0000-0002-6544-5022
+    elixir_node: fi
+
+d-salgado:
+    name: David Salgado
+    email: david.salgado@france-bioinformatique.fr
+    orcid: 0000-0002-5905-3591
+    elixir_node: fr
+
 jmenglund:
     name: Markus Englund
     email: markus.englund@nbis.se
     orcid: 0000-0003-1688-7112
     elixir_node: se
+
+lilachic:
+    name: Liisa Lado-Villar
+    email: liisa.lado-villar@csc.fi
+    orcid:
+    elixir_node: fi
 
 mfreeberg:
     name: Mallory Freeberg
@@ -43,32 +73,8 @@ silviabah:
     orcid: 0000-0002-2734-0449
     elixir_node: embl
 
-ahornos:
-    name: Albert Hornos Vidal
-    email: ahornos@bsc.es
-    orcid: 0000-0002-7330-668X
+lauportell:
+    name: Laura Portell Silva
+    email: laura.portell@bsc.es
+    orcid: 0000-0003-0390-3208
     elixir_node: es
-
-blankdots:
-    name: Stefan Negru
-    email:
-    orcid:
-    elixir_node: fi
-
-alex-dem:
-    name: Alexandros Dimopoulos
-    email: dimopoulos@fleming.gr
-    orcid: 0000-0002-4602-2040
-    elixir_node: gr
-
-d-salgado:
-    name: David Salgado
-    email: david.salgado@france-bioinformatique.fr
-    orcid: 0000-0002-5905-3591
-    elixir_node: fr
-
-lilachic:
-    name: Liisa Lado-Villar
-    email: liisa.lado-villar@csc.fi
-    orcid:
-    elixir_node: fi
