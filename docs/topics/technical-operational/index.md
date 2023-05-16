@@ -22,7 +22,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 - Set up your node using the local EGA software stack
 - Interact with Central EGA using RabbitMQ
 - Evaluate your node implementation using the FEGA Maturity Model
-- Plan your node end-to-end demonstrator
+- Plan your node <a href="https://docs.google.com/document/d/1r5bm-8vVeN0zTpWQZdfBsMFCwy2RJlspsCdNOzCuZD8/" target="_blank">end-to-end demonstrator</a>
 
 ## 1. Identify node requirements
 
