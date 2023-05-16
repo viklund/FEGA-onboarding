@@ -25,7 +25,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 
 ### Internal channels
 - The <a href="https://elixir-europe.org/communities/human-data" target="_blank">ELIXIR Federated Human Data (FHD) Community</a> is the main entry-point for a Node interested in joining the FEGA Network:
-  - Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") to hear about the latest updates and events from the FHD community. You will need to be to log in into the ELIXIR intranet.
+  - Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") to hear about the latest updates and events from the FHD community. You will need to log-in into the ELIXIR intranet.
   - Attend the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a> to engage with the FEGA community.
 - Federated EGA has mailing lists for various communications: 
   - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA.
