@@ -53,11 +53,24 @@ blankdots:
     orcid: 0000-0002-6544-5022
     elixir_node: fi
 
+brane007:
+    name: Brane Leskošek
+    email: brane.leskosek@mf.uni-lj.si
+    orcid: 0000-0001-5202-2349
+    elixir_node: si
+
 d-salgado:
     name: David Salgado
     email: david.salgado@france-bioinformatique.fr
     orcid: 0000-0002-5905-3591
     elixir_node: fr
+    
+ealloza:
+    name: Eva Alloza Anguiano
+    email: ealloza@bsc.es
+    twitter: EvaAlloza
+    orcid: 0000-0001-8385-9336
+    elixir_node: es
 
 jmenglund:
     name: Markus Englund
