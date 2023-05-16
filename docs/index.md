@@ -34,7 +34,10 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
+
+
 <br/><br/>
+
 
 ## What are the benefits of joining Federated EGA?
 
