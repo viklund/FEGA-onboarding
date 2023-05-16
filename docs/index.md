@@ -18,7 +18,7 @@ These materials provide guidance for establishing a node within the Federated EG
 
 ## What is Federated EGA (FEGA)?
 
-**The Federated EGA is an ecosystem or network of Federated EGA Nodes visible as the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
+**The Federated EGA is an ecosystem or network of Federated EGA Nodes. FEGA Nodes constitute the primary global resource for discovery and access of sensitive human omics and associated data, consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
 
 Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
 
