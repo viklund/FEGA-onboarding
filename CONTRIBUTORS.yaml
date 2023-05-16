@@ -58,6 +58,13 @@ d-salgado:
     email: david.salgado@france-bioinformatique.fr
     orcid: 0000-0002-5905-3591
     elixir_node: fr
+    
+ealloza:
+    name: Eva Alloza Anguiano
+    email: ealloza@bsc.es
+    twitter: EvaAlloza
+    orcid: 0000-0001-8385-9336
+    elixir_node: es
 
 jmenglund:
     name: Markus Englund
