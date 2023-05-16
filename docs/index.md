@@ -34,13 +34,15 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
-
+<br/><br/>
 
 ## What are the benefits of joining Federated EGA?
 
-* **Globally Accepted Standards**. EGA develops and follows interoperable global standards for human data access accepted by the [Global Alliance for Genomics & Health (GA4GH)](https://www.ga4gh.org/). This commitment makes the whole service trustworthy for the most demanding data submitters, often concerned with data security and privacy. 
-* **Built with FAIR in mind**. EGA is deeply commited to the [FAIR principles](https://www.go-fair.org/fair-principles/). By abbiding to FAIR you ensure that your data has the necessary Findability, Accessibility, Interoperability, and Reuseability to meet requirements of funders.
-* **Aligned with most relevant data initiatives**. Many health data related projects are now under way, in particular the [Genomic Data Infrastructure (GDI)](https://gdi.onemilliongenomes.eu/) and the [European Health Data Space (EHDS)](https://www.european-health-data-space.com/). These projects use FEGA like arquitectures for data storage and distribution, once again proving the quality of this design.
+* **Globally Accepted Standards**. Federated EGA develops and follows interoperable global standards for human data access accepted by the [Global Alliance for Genomics & Health (GA4GH)](https://www.ga4gh.org/). This commitment makes the whole service trustworthy for the most demanding data submitters, often concerned with data security and privacy. 
+* **Built with FAIR in mind**. Federated EGA is deeply commited to the [FAIR principles](https://www.go-fair.org/fair-principles/). By abbiding to FAIR you ensure that your data has the necessary Findability, Accessibility, Interoperability, and Reuseability to meet requirements of funders.
+* **Enhanced Discoverability**. Your (meta)data will be available in a global catalog, maximizing its discoverability.
+* **Aligned with most relevant data initiatives**. Many health data related projects are now under way, in particular the [Genomic Data Infrastructure (GDI)](https://gdi.onemilliongenomes.eu/) and the [European Health Data Space (EHDS)](https://www.european-health-data-space.com/). These projects use FEGA like architectures for data storage and distribution, once again proving the quality of this design.
+* **Network of Experts**. By joining Federated EGA, you will be part of a network of experts, making sure to astay updated with the State-of-Art on Data Sharing.
 
 ## How do I start?
 
