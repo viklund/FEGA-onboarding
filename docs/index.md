@@ -35,7 +35,17 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
+
 <br/><br/>
+
+
+## What are the benefits of joining Federated EGA?
+
+* **Globally Accepted Standards**. Federated EGA develops and follows interoperable global standards for human data access accepted by the <a href="https://www.ga4gh.org/" target="_blank">Global Alliance for Genomics & Health (GA4GH)</a>. This commitment makes the whole service trustworthy for the most demanding data submitters, often concerned with data security and privacy. 
+* **Built with FAIR in mind**. Federated EGA is deeply commited to the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR principles</a>. By abbiding to FAIR you ensure that your data has the necessary Findability, Accessibility, Interoperability, and Reuseability to meet requirements of funders.
+* **Enhanced Discoverability**. Your (meta)data will be available in a global catalog, maximizing its discoverability.
+* **Aligned with most relevant data initiatives**. Many health data related projects are now under way, in particular the <a href="https://gdi.onemilliongenomes.eu/" target="_blank">Genomic Data Infrastructure (GDI)</a> and the <a href="https://www.european-health-data-space.com/" target="_blank">European Health Data Space (EHDS)</a>. These projects use FEGA like architectures for data storage and distribution, once again proving the quality of this design.
+* **Network of Experts**. By joining Federated EGA, you will be part of a network of experts, making sure to stay up to date with the State-of-Art on Data Sharing.
 
 ## How do I start?
 
