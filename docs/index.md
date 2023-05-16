@@ -35,6 +35,7 @@ Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated 
 | Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
 | No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
 
+
 ## What are the benefits of joining Federated EGA?
 
 * **Globally Accepted Standards**. EGA develops and follows interoperable global standards for human data access accepted by the [Global Alliance for Genomics & Health (GA4GH)](https://www.ga4gh.org/). This commitment makes the whole service trustworthy for the most demanding data submitters, often concerned with data security and privacy. 
