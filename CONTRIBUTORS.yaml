@@ -72,6 +72,11 @@ ealloza:
     orcid: 0000-0001-8385-9336
     elixir_node: es
 
+fracassandocasualmente:
+    name: Miguel Conrado Santos
+    email: miguel.conrado.santos@tecnico.ulisboa.pt
+    elixir_node: pt
+
 jmenglund:
     name: Markus Englund
     email: markus.englund@nbis.se
